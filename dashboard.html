@@ -31,10 +31,18 @@ input[type=text]{padding:8px 14px;border:1px solid #ddd;border-radius:6px;font-s
     <div class='stat'><span>31076 EUR</span>Total revenue</div>
     <div class='stat'><span>485 EUR</span>Today</div>
   </div>
-  <div style='margin-top:8px;font-size:12px;opacity:0.7;'>Generated: 2026-05-17 17:51 UTC | keni dashboard_build.py</div>
+  <div style='margin-top:8px;font-size:12px;opacity:0.7;'>Generated: 2026-05-17 17:54 UTC | keni dashboard_build.py</div>
 </div>
-<div class='search'>
-  <input type='text' id='q' placeholder='Filter (AX / brand / MPN)…' oninput='filterTable()'>
+<div class='search' style='display:flex;gap:8px;flex-wrap:wrap;align-items:center;'>
+  <input type='text' id='q' placeholder='Filter (AX / brand / MPN / SN)…' oninput='filterTable()' style='flex:1;min-width:200px;'>
+  <select id='fState' onchange='filterTable()'><option value=''>Vsechny stavy</option></select>
+  <select id='fBrand' onchange='filterTable()'><option value=''>Vsechny brandy</option></select>
+  <select id='fHasListing' onchange='filterTable()'>
+    <option value=''>Vystavene + nevystavene</option>
+    <option value='live'>Pouze ACTIVE na eBay</option>
+    <option value='none'>Pouze BEZ listingu</option>
+  </select>
+  <span id='count' style='font-size:13px;color:#666;margin-left:8px;'></span>
 </div>
 <table id='tbl'>
 <thead><tr>
@@ -1050,10 +1058,65 @@ input[type=text]{padding:8px 14px;border:1px solid #ddd;border-radius:6px;font-s
 </tbody>
 </table>
 <script>
-function filterTable(){
-  var q=document.getElementById('q').value.toLowerCase();
-  var rows=document.querySelectorAll('#tbl tbody tr');
-  rows.forEach(function(r){r.style.display=r.textContent.toLowerCase().includes(q)?'':'none';});
-}
+(function(){
+  var rows = Array.from(document.querySelectorAll('#tbl tbody tr'));
+  var states = new Set(), brands = new Set();
+  rows.forEach(function(r){
+    var st = r.children[1] ? r.children[1].textContent.trim() : '';
+    var br = r.children[2] ? r.children[2].textContent.trim() : '';
+    if (st) states.add(st);
+    if (br && br !== '?') brands.add(br);
+  });
+  var ss = document.getElementById('fState');
+  Array.from(states).sort().forEach(function(s){ var o=document.createElement('option'); o.value=s; o.textContent=s; ss.appendChild(o); });
+  var bs = document.getElementById('fBrand');
+  Array.from(brands).sort().forEach(function(b){ var o=document.createElement('option'); o.value=b; o.textContent=b; bs.appendChild(o); });
+
+  // sortable columns
+  var headers = document.querySelectorAll('#tbl thead th');
+  headers.forEach(function(th, idx){
+    th.style.cursor='pointer';
+    th.title='Kliknuti pro razeni';
+    th.dataset.dir = 'asc';
+    th.addEventListener('click', function(){
+      var visible = rows.filter(function(r){ return r.style.display !== 'none'; });
+      var dir = th.dataset.dir === 'asc' ? 'desc' : 'asc';
+      th.dataset.dir = dir;
+      visible.sort(function(a, b){
+        var av = a.children[idx] ? a.children[idx].textContent.trim() : '';
+        var bv = b.children[idx] ? b.children[idx].textContent.trim() : '';
+        var an = parseFloat(av.replace(/[^0-9.-]/g, ''));
+        var bn = parseFloat(bv.replace(/[^0-9.-]/g, ''));
+        if (!isNaN(an) && !isNaN(bn)) { return dir === 'asc' ? an-bn : bn-an; }
+        return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
+      });
+      var tbody = document.querySelector('#tbl tbody');
+      visible.forEach(function(r){ tbody.appendChild(r); });
+    });
+  });
+
+  window.filterTable = function(){
+    var q = document.getElementById('q').value.toLowerCase();
+    var fs = document.getElementById('fState').value;
+    var fb = document.getElementById('fBrand').value;
+    var fl = document.getElementById('fHasListing').value;
+    var shown = 0;
+    rows.forEach(function(r){
+      var text = r.textContent.toLowerCase();
+      var st = r.children[1] ? r.children[1].textContent.trim() : '';
+      var br = r.children[2] ? r.children[2].textContent.trim() : '';
+      var listingCell = r.children[9] ? r.children[9].textContent.trim() : '';
+      var hasLid = /\d{9,}/.test(listingCell);
+      var ok = (!q || text.includes(q))
+        && (!fs || st === fs)
+        && (!fb || br === fb)
+        && (!fl || (fl === 'live' && hasLid) || (fl === 'none' && !hasLid));
+      r.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    document.getElementById('count').textContent = shown + ' / ' + rows.length + ' zobrazeno';
+  };
+  window.filterTable();
+})();
 </script>
 </body></html>
