@@ -184,8 +184,8 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
            Vynecháno = kupující si objedná 1+ ks bez omezení. -->
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Momentálně nedostupné</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
     <VISIBLE>0</VISIBLE>   <!-- PILOT: skrytý pro admin preview. Po vizuální kontrole nastavit na 1. -->
 
     <LOGISTIC>
