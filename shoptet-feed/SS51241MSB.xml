@@ -60,7 +60,6 @@
   <li>Kontrola S.M.A.R.T. atributů — health PASSED</li>
   <li>Měření sekvenčních rychlostí čtení/zápisu</li>
   <li>Reallocated sektory: 0</li>
-  <li>Většina kusů má nízký počet provozních hodin (typicky &lt; 500 h)</li>
 </ul>
 <p>Drobné stopy z montáže (otisky šroubku v rámu nálepky) jsou možné a normální. Funkční záruka <strong>24 měsíců s právem na vrácení</strong>.</p>
 
@@ -95,7 +94,7 @@ Ano. SSD nemá pohyblivé části, výkon používáním nedegraduje (TBW limit 
 Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SATA.</p>
 
 <h3>Co dostanete</h3>
-<p>1× SSD disk Kingston A400 240 GB, M.2 2280 SATA, antistatický obal. Bez originální maloobchodní krabice — zboží z firemních počítačů.</p>
+<p>1× SSD disk Kingston A400 240 GB, M.2 2280 SATA. Bez originální maloobchodní krabice — zboží z firemních počítačů.</p>
 
 <p>Doprava Zásilkovna / Česká pošta / PPL.</p>
 
@@ -150,6 +149,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
       <CODE>4505</CODE>
       <CODE>4506</CODE>
     </ALTERNATIVE_PRODUCTS>
+    <RELATED_FILES />   <!-- explicit prázdný: smaže "Datasheet Kingston A400 M.2 (PDF)" link z předchozího importu -->
 
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
