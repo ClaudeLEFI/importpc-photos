@@ -115,8 +115,8 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
          + checksum validní = sufficient evidence. -->
     <EAN>0740617288667</EAN>
     <CATEGORIES>
-      <CATEGORY id="910">Komponenty pro notebouky a počítače &gt; Pevné disky do PC a notebouku</CATEGORY>
-      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebouky a počítače &gt; Pevné disky do PC a notebouku</DEFAULT_CATEGORY>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE description="Kingston A400 240GB M.2 SATA SSD - oficiální produktové foto">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_01.jpg</IMAGE>
