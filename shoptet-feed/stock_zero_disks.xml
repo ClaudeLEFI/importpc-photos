@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Stock-zero XML pro disky které jsou na eshopu, ale v inventory.db neexistují.
+     Vygenerováno 44 produktů, audit 2026-05-20.
+     Pairing podle CODE, update mode = jen STOCK se přepíše, popis/cena/foto zůstanou. -->
+<SHOP>
+  <SHOPITEM>
+    <CODE>MQ01ABD032</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="320 GB HDD Toshiba MQ01ABD032 2.5" SATA" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>MQ01ABD032-33NRP5</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="320 GB HDD Toshiba MQ01ABD032 2.5" SATA" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>MQ01ABD051</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=45, name="500 GB HDD Toshiba MQ01ABD050 2.5" SATA" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>MHZ2250BK</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Fujitsu MHZ2250BK 250 GB HDD 2.5" SATA II, 7200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HDS721025CLA682</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Deskstar 250GB HDD 3.5" SATA II, 7.200 ot/" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>0A37096</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Deskstar 320GB HDD 3.5" SATA II, 7.200 ot/" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS542512K9SA00</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 120 GB HDD 2.5" SATA II, 5400 o" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS541616J9SA00</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 5K160 160 GB HDD 2.5" SATA II, " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS723216L9A360</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 7K320 160 GB HDD 2.5" SATA II, " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS723225A7365</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 7K320 250 GB HDD 2.5" SATA II, " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS725032A9A365</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 7K500 320 GB HDD 2.5" SATA II, " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS727550A9E364</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar 7K750 500 GB HDD 2.5" SATA II, " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTS543232A7A381</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar Z5K320 320 GB HDD 2.5" SATA II," -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HCC545032A7E380</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Travelstar Z5K500 320 GB HDD 2.5" SATA II," -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HTE723225A7A364</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=2, name="Hitachi Travelstar Z7K320 250 GB HDD 2.5" SATA II," -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>2H3D250872S</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=5, name="Hitachi Ultrastar 250GB HDD 3.5" SATA III, 7.200 o" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>0F15012</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Hitachi Ultrastar 500GB HDD 3.5" SATA III, 7.200 o" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HD256GM</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Samsung SpinPoint 250GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>HD322HJ</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Samsung Spinpoint F1 320 GB HDD 3.5" SATA II, 7.20" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3160318AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate Barracuda 160GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3200822AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate Barracuda 200GB HDD 3.5" SATA, 7.200 ot/mi" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3250820AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=2, name="Seagate Barracuda 250GB HDD 3.5" SATA I, 7.200 ot/" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3250312AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=19, name="Seagate Barracuda 250GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3250318AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=10, name="Seagate Barracuda 250GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST250DM000</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=23, name="Seagate Barracuda 250GB HDD 3.5" SATA III, 7200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3320413AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=3, name="Seagate Barracuda 320GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3320418AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate Barracuda 320GB HDD 3.5" SATA II, 7.200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST500DM009</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=2, name="Seagate Barracuda 500GB HDD 3.5" SATA III, 7.200 o" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3500413AS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate Barracuda 500GB HDD 3.5" SATA III, 7200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>4508</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=77, name="Seagate Barracuda 500GB HDD 3.5" SATA III, 7200 ot" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3500630NS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=2, name="Seagate Barracuda ES 500GB HDD 3.5" SATA II, 7200 " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST250LT007</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate Momentus Thin 250 GB HDD 2.5" SATA II, 540" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>ST3320311CS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=3, name="Seagate Pipeline HD 320GB HDD 3.5" SATA II, 5.900 " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>0D8V36</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Seagate UltraThin 500 GB HDD 2.5" SATA, 5.400 ot/m" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>9517</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=69, name="SSD disk BIOSTAR S100, 120GB, SATA III" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DT01ACA050</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=2, name="Toshiba DT01ACA050 500GB HDD 3.5" SATA III, 7.200 " -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>MQ01ABU032W</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Toshiba MQ01ABU 320 GB HDD 2.5" SATA II, 5.400 ot/" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD1600AAJS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Western Digital Caviar Blue 160 GB HDD 3.5" SATA I" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD2500AAJS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Western Digital Caviar Blue 250GB HDD 3.5" SATA II" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD2500AAKX</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=41, name="Western Digital Caviar Blue 250GB HDD 3.5" SATA II" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD3200AAJS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Western Digital Caviar Blue 320GB HDD 3.5" SATA II" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD3200AAKX</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Western Digital Caviar Blue 320GB HDD 3.5" SATA II" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD5000AZLX</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=-1, name="Western Digital Caviar Blue 500GB HDD 3.5" SATA II" -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>WD2502ABYS</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <!-- byl qty_eshop=1, name="Western Digital RE3 250GB HDD 3.5" SATA II, 7.200 " -->
+  </SHOPITEM>
+</SHOP>
