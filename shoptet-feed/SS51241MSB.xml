@@ -14,8 +14,8 @@
 -->
 <SHOP>
   <SHOPITEM>
-    <NAME>Kingston A400 240GB SSD M.2 SATA 2280 SA400M8240G — testovaný, záruka 12 měsíců</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>SSD disk Kingston A400 240 GB, M.2 SATA (NGFF) 2280, sekvenční čtení až 500 MB/s. Použitý, otestovaný, vytaženo z plně funkčního PC. Záruka 12 měsíců s vrácením.</p><p><strong>Pozor:</strong> M.2 <strong>SATA</strong> — ne NVMe. Vhodné do laptopů a PC podporujících M.2 SATA slot.</p>]]></SHORT_DESCRIPTION>
+    <NAME>Kingston A400 240GB SSD M.2 SATA 2280 SA400M8240G — testovaný</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD disk Kingston A400 240 GB, M.2 SATA (NGFF) 2280, sekvenční čtení až 500 MB/s. Použitý, otestovaný, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><strong>Pozor:</strong> M.2 <strong>SATA</strong> — ne NVMe. Vhodné do laptopů a PC podporujících M.2 SATA slot.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[
 <h2>Kingston A400 240GB M.2 SATA — spolehlivé SSD pro upgrade</h2>
 <p>Populární M.2 SATA disk Kingston A400 s kapacitou <strong>240 GB</strong> (256 GB NAND, formátováno na 240 GB pro over-provisioning). Form factor M.2 2280 (NGFF), rozhraní SATA III 6 Gb/s. <strong>Bestseller</strong> pro upgrade staršího PC nebo notebooku z HDD na SSD bez nutnosti otevřít 2,5" pozici.</p>
@@ -34,7 +34,7 @@
   <tr><td><strong>Příkon</strong></td><td>aktivní typ. 0,640 W, idle 0,195 W</td></tr>
   <tr><td><strong>Spotřeba (sleep)</strong></td><td>0,031 W</td></tr>
   <tr><td><strong>Provozní teplota</strong></td><td>0 až 70 °C</td></tr>
-  <tr><td><strong>Záruka výrobce (nová)</strong></td><td>3 roky (zde 12 měsíců — použité)</td></tr>
+  <tr><td><strong>Záruka výrobce (nová)</strong></td><td>3 roky (zde 24 měsíců na použité)</td></tr>
   <tr><td><strong>Výrobce</strong></td><td>Kingston Technology</td></tr>
   <tr><td><strong>Model / MPN</strong></td><td>SA400M8/240G — Kingston A400 řada</td></tr>
   <tr><td><strong>Hmotnost</strong></td><td>cca 7 g</td></tr>
@@ -62,7 +62,7 @@
   <li>Reallocated sektory: 0</li>
   <li>Většina kusů má nízký počet provozních hodin (typicky &lt; 500 h)</li>
 </ul>
-<p>Drobné stopy z montáže (otisky šroubku v rámu nálepky) jsou možné a normální. Funkční záruka <strong>12 měsíců s právem na vrácení</strong>.</p>
+<p>Drobné stopy z montáže (otisky šroubku v rámu nálepky) jsou možné a normální. Funkční záruka <strong>24 měsíců s právem na vrácení</strong>.</p>
 
 <h3>Pro koho je vhodný</h3>
 <ul>
@@ -86,7 +86,7 @@
 Zkontrolujte si v manuálu, zda máte M.2 2280 slot s SATA podporou. U většiny ThinkPadů T460–T580 ano. NVMe-only sloty (novější ThinkPady X1 Carbon, většina herních laptopů) nepodporují.</p>
 
 <p><strong>Q: Mám tam ten Kingston disk z fotky?</strong><br/>
-Foto je ilustrační (generický M.2 2280 SATA SSD). Posíláme funkčně testovaný kus Kingston A400 240GB SA400M8240G. Pokud chcete konkrétní kus s konkrétním S/N, kontaktujte nás před objednávkou.</p>
+Ano, posíláme přesně funkčně testovaný kus Kingston A400 SA400M8/240G. Fotky jsou oficiální produktové od výrobce Kingston. Pokud chcete konkrétní kus s konkrétním S/N, kontaktujte nás před objednávkou.</p>
 
 <p><strong>Q: Je výkon stejný jako u nového?</strong><br/>
 Ano. SSD nemá pohyblivé části, výkon používáním nedegraduje (TBW limit 80 TB je velmi vysoký).</p>
@@ -97,13 +97,13 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
 <h3>Co dostanete</h3>
 <p>1× SSD disk Kingston A400 240 GB, M.2 2280 SATA, antistatický obal. Bez originální maloobchodní krabice — zboží z firemních počítačů.</p>
 
-<p><strong>Skladem 13 ks.</strong> Doprava Zásilkovna / Česká pošta / PPL.</p>
+<p>Doprava Zásilkovna / Česká pošta / PPL.</p>
 
 <p><small>Interní kód: SS51241MSB (master SKU)</small></p>
 ]]></DESCRIPTION>
     <MANUFACTURER>Kingston</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
-    <WARRANTY>12 měsíců</WARRANTY>
+    <WARRANTY>24 měsíců</WARRANTY>
     <ADULT>0</ADULT>
     <ITEM_TYPE>bazaar</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -119,7 +119,8 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebouky a počítače &gt; Pevné disky do PC a notebouku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Kingston A400 240GB M.2 SATA SSD - celkový pohled">https://claudelefi.github.io/importpc-photos/photos/A255/01.jpg</IMAGE>
+      <IMAGE description="Kingston A400 240GB M.2 SATA SSD - oficiální produktové foto">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_01.jpg</IMAGE>
+      <IMAGE description="Kingston A400 240GB M.2 SATA SSD - detail nálepky SA400M8 A400 M.2 2280">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_02.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Kingston</VALUE><DESCRIPTION /></TEXT_PROPERTY>
@@ -134,7 +135,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
       <TEXT_PROPERTY><NAME>TBW</NAME><VALUE>80 TB</VALUE><DESCRIPTION /></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>MTBF</NAME><VALUE>1 000 000 hodin</VALUE><DESCRIPTION /></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>12 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER>
@@ -164,7 +165,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>Kingston A400 240GB M.2 SATA SSD</XML_FEED_NAME>
     <SEO_TITLE>Kingston A400 240GB SSD M.2 SATA — testovaný | importpc.cz</SEO_TITLE>
-    <META_DESCRIPTION>Kingston A400 240 GB M.2 SATA SSD, čtení 500 MB/s, testovaný. 13 ks skladem, záruka 12 měsíců. Pro ThinkPad T460-T580, Latitude, ProBook G3-G5.</META_DESCRIPTION>
+    <META_DESCRIPTION>Kingston A400 240 GB M.2 SATA SSD, čtení 500 MB/s, testovaný, záruka 24 měsíců. Pro ThinkPad T460-T580, Latitude E5470-7490, ProBook 440-450 G3-G5.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
     <ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
@@ -175,7 +176,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
     <INTERNAL_NOTE>master SKU SS51241MSB, 13 ks (A255 + 12 sister), intake 2026-05-14, eBay 257506296532 ACTIVE</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
-      <DESCRIPTION>Použité, otestované (S.M.A.R.T. PASSED, 0 reallocated). Vytaženo z plně funkčních PC. Záruka 12 měsíců s vrácením.</DESCRIPTION>
+      <DESCRIPTION>Použité, otestované (S.M.A.R.T. PASSED, 0 reallocated). Vytaženo z plně funkčních PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
     </ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -185,8 +186,8 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
           <LOCATION>R255</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
-      <MINIMAL_AMOUNT>2</MINIMAL_AMOUNT>
-      <MAXIMAL_AMOUNT />
+      <!-- MINIMAL_AMOUNT/MAXIMAL_AMOUNT = minimum/maximum quantity per ORDER, ne stock alert.
+           Vynecháno = kupující si objedná 1+ ks bez omezení. -->
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
     <AVAILABILITY_OUT_OF_STOCK>Skladem</AVAILABILITY_OUT_OF_STOCK>
