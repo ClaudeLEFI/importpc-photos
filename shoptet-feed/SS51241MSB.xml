@@ -149,12 +149,12 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
       <CODE>4505</CODE>  <!-- WD Green 120GB M.2 SATA — menší kapacita za nižší cenu -->
       <CODE>4506</CODE>  <!-- WD Blue 250GB M.2 SATA — podobná kapacita, alternativní brand -->
     </ALTERNATIVE_PRODUCTS>
-    <RELATED_FILES>
-      <RELATED_FILE>
-        <TEXT>Datasheet Kingston A400 M.2 (PDF)</TEXT>
-        <URL>https://www.kingston.com/datasheets/SA400M8_us.pdf</URL>
-      </RELATED_FILE>
-    </RELATED_FILES>
+    <!-- RELATED_FILES s datasheet PDF odstraněno: kingston.com vrací 403 Cloudflare
+         na všechny pokusy URL přístupu (sa400_us.pdf, SA400M8_us.pdf, atd.).
+         Browser ho otevře, ale nemůžu garantovat, že link funguje univerzálně
+         pro všechny návštěvníky e-shopu. Pokud user ručně ověří funkční URL,
+         doplníme zpět. -->
+
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS>
