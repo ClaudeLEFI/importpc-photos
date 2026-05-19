@@ -241,13 +241,8 @@
     </STOCK>
     <!-- byl qty_eshop=1, name="Seagate UltraThin 500 GB HDD 2.5" SATA, 5.400 ot/m" -->
   </SHOPITEM>
-  <SHOPITEM>
-    <CODE>9517</CODE>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-    <!-- byl qty_eshop=69, name="SSD disk BIOSTAR S100, 120GB, SATA III" -->
-  </SHOPITEM>
+  <!-- CODE=9517 BIOSTAR S100 120GB SATA III qty_eshop=69 ponechán beze změny per user 2026-05-20 -->
+
   <SHOPITEM>
     <CODE>DT01ACA050</CODE>
     <STOCK>
