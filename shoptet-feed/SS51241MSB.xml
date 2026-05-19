@@ -14,7 +14,7 @@
 -->
 <SHOP>
   <SHOPITEM>
-    <NAME>Kingston A400 240GB SSD M.2 SATA 2280 SA400M8240G — testovaný</NAME>
+    <NAME>Kingston A400 240GB SSD M.2 SATA 2280 SA400M8240G</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>SSD disk Kingston A400 240 GB, M.2 SATA (NGFF) 2280, sekvenční čtení až 500 MB/s. Použitý, otestovaný, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><strong>Pozor:</strong> M.2 <strong>SATA</strong> — ne NVMe. Vhodné do laptopů a PC podporujících M.2 SATA slot.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[
 <h2>Kingston A400 240GB M.2 SATA — spolehlivé SSD pro upgrade</h2>
@@ -119,8 +119,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Kingston A400 240GB M.2 SATA SSD - detail nálepky SA400M8 A400 M.2 2280">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_02.jpg</IMAGE>
-      <IMAGE description="Kingston A400 240GB M.2 SATA SSD - oficiální produktové foto">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_01.jpg</IMAGE>
+      <IMAGE description="Kingston A400 240GB M.2 SATA SSD SA400M8 A400 M.2 2280">https://claudelefi.github.io/importpc-photos/photos/SS51241MSB/mfr_02.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Kingston</VALUE><DESCRIPTION /></TEXT_PROPERTY>
@@ -164,7 +163,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>Kingston A400 240GB M.2 SATA SSD</XML_FEED_NAME>
-    <SEO_TITLE>Kingston A400 240GB SSD M.2 SATA — testovaný | importpc.cz</SEO_TITLE>
+    <SEO_TITLE>Kingston A400 240GB SSD M.2 SATA 2280 | importpc.cz</SEO_TITLE>
     <META_DESCRIPTION>Kingston A400 240 GB M.2 SATA SSD, čtení 500 MB/s, testovaný, záruka 24 měsíců. Pro ThinkPad T460-T580, Latitude E5470-7490, ProBook 440-450 G3-G5.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
