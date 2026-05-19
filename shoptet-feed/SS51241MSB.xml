@@ -198,7 +198,7 @@ Ano, s M.2 SATA → USB 3.0 redukcí. Doporučujeme krytý box pro 7+ mm M.2 SAT
     </LOGISTIC>
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>   <!-- §90 ZDPH bazarová daň (margin scheme) — cena je finální, žádné DPH na faktuře -->
-    <PRICE>1088</PRICE>
+    <PRICE>988</PRICE>
     <STANDARD_PRICE>1499</STANDARD_PRICE>
     <!-- PURCHASE_PRICE záměrně vynechán — některá Shoptet témata ji zobrazují
          v B2B detailu produktu (exposed margin risk). Marže si tracking v
