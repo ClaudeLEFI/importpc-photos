@@ -17,13 +17,10 @@
     </STOCK>
     <!-- byl qty_eshop=1, name="320 GB HDD Toshiba MQ01ABD032 2.5" SATA" -->
   </SHOPITEM>
-  <SHOPITEM>
-    <CODE>MQ01ABD051</CODE>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-    <!-- byl qty_eshop=45, name="500 GB HDD Toshiba MQ01ABD050 2.5" SATA" -->
-  </SHOPITEM>
+  <!-- CODE=MQ01ABD051 SUSPECT TYPO (eshop CODE 051, NAME zmiňuje MQ01ABD050) qty_eshop=45.
+       My máme Toshiba MQ01ABD050 jako SKU HD8C4E0MSB qty=46. NESAHAT → ručně opravit
+       CODE v adminu na MQ01ABD050 nebo přemapovat na náš SKU. Per user 2026-05-20. -->
+
   <SHOPITEM>
     <CODE>MHZ2250BK</CODE>
     <STOCK>
