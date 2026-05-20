@@ -9316,11 +9316,11 @@
     <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Seagate ST2000DM001-1ER164 2TB HDD 2,5" SATA III</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD disk Seagate 2TB, 2,5&quot; SATA III. Použitý, otestovaný, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <NAME>Seagate ST2000DM001-1ER164 2TB HDD 3,5" SATA III</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD disk Seagate 2TB, 3,5&quot; SATA III. Použitý, otestovaný, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[
-<h2>Seagate ST2000DM001-1ER164 — 2TB HDD 2,5&quot;</h2>
-<p>HDD disk Seagate s kapacitou <strong>2TB</strong>. Formát 2,5&quot;, rozhraní SATA III.</p>
+<h2>Seagate ST2000DM001-1ER164 — 2TB HDD 3,5&quot;</h2>
+<p>HDD disk Seagate s kapacitou <strong>2TB</strong>. Formát 3,5&quot;, rozhraní SATA III.</p>
 
 
 <h3>Klíčové parametry</h3>
@@ -9328,7 +9328,7 @@
   <tr><td><strong>Výrobce</strong></td><td>Seagate</td></tr>
   <tr><td><strong>Model / MPN</strong></td><td>ST2000DM001-1ER164</td></tr>
   <tr><td><strong>Kapacita</strong></td><td>2TB</td></tr>
-  <tr><td><strong>Formát</strong></td><td>2,5&quot;</td></tr>
+  <tr><td><strong>Formát</strong></td><td>3,5&quot;</td></tr>
   <tr><td><strong>Rozhraní</strong></td><td>SATA III</td></tr>
   
   <tr><td><strong>Záruka</strong></td><td>24 měsíců</td></tr>
@@ -9338,7 +9338,7 @@
 <p><strong>Použité, otestované.</strong> Vytaženo z plně funkčních počítačů. U každého kusu provedena kontrola S.M.A.R.T. atributů (health PASSED, 0 reallocated). Funkční záruka <strong>24 měsíců s právem na vrácení</strong>.</p>
 
 <h3>Co dostanete</h3>
-<p>1× HDD disk Seagate ST2000DM001-1ER164, 2TB, 2,5&quot; SATA III. Bez originální maloobchodní krabice — zboží z firemních počítačů.</p>
+<p>1× HDD disk Seagate ST2000DM001-1ER164, 2TB, 3,5&quot; SATA III. Bez originální maloobchodní krabice — zboží z firemních počítačů.</p>
 
 <p>Doprava Zásilkovna / Česká pošta / PPL.</p>
 
@@ -9357,9 +9357,9 @@
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description="Seagate ST2000DM001-1ER164 2TB HDD">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
-    <TEXT_PROPERTIES><TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Seagate</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>ST2000DM001-1ER164</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>2TB</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Formát</NAME><VALUE>2,5"</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Rozhraní</NAME><VALUE>SATA III</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY></TEXT_PROPERTIES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>2TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Otáčky</NAME><VALUE>—</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Seagate ST2000DM001-1ER164 2TB HDD">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <TEXT_PROPERTIES><TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Seagate</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>ST2000DM001-1ER164</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>2TB</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Formát</NAME><VALUE>3,5"</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Rozhraní</NAME><VALUE>SATA III</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY></TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>2TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Otáčky</NAME><VALUE>—</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS>
@@ -9369,7 +9369,7 @@
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <SEO_TITLE>Seagate ST2000DM001-1ER164 2TB HDD SATA III | importpc.cz</SEO_TITLE>
-    <META_DESCRIPTION>Seagate ST2000DM001-1ER164 2TB HDD 2,5" SATA III, testovaný, záruka 24 měsíců. 1 ks skladem.</META_DESCRIPTION>
+    <META_DESCRIPTION>Seagate ST2000DM001-1ER164 2TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců. 1 ks skladem.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
     <ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
