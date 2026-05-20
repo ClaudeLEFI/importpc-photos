@@ -281,6 +281,7 @@ function renderGrid() {
 }
 
 function escapeHtml(s) { return String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'})[c]); }
+function escapeAttr(s) { return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 
 function openModal(code) {
   const d = DATA.find(x => x.code === code);
