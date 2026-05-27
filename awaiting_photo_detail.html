@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="cs"><head>
+<meta charset="UTF-8">
+<title>AWAITING_PHOTO detail — 18 units</title>
+<style>
+body { font-family: -apple-system, sans-serif; padding: 12px; background: #f5f5f5; }
+h1 { margin: 0 0 6px; font-size: 22px; }
+.summary { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+.stat { background: white; padding: 6px 12px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0,0,0,.06); font-size: 12px; }
+.stat strong { font-size: 16px; display: block; }
+.info { background: #fff3cd; padding: 8px 12px; margin-bottom: 10px; border-left: 4px solid #ffc107; border-radius: 4px; font-size: 13px; }
+table { width: 100%; border-collapse: collapse; background: white; font-size: 12px; }
+th { background: #1a237e; color: white; padding: 6px 8px; position: sticky; top: 0; text-align: left; }
+td { padding: 4px 8px; border-bottom: 1px solid #eee; }
+tr:hover { background: #f8f9ff; }
+code { background: #eee; padding: 1px 4px; border-radius: 3px; font-size: 11px; }
+.state-awaiting_photo { background: #ff9800; color: white; padding: 2px 5px; border-radius: 3px; font-size: 10px; }
+.state-awaiting_rephoto { background: #ff5722; color: white; padding: 2px 5px; border-radius: 3px; font-size: 10px; }
+.state-new { background: #9e9e9e; color: white; padding: 2px 5px; border-radius: 3px; font-size: 10px; }
+.controls { background: white; padding: 8px 12px; border-radius: 5px; margin-bottom: 8px; }
+input, select { padding: 4px 8px; border: 1px solid #ccc; border-radius: 3px; font-size: 12px; }
+</style>
+</head><body>
+<h1>📷 AWAITING_PHOTO detail — 18 units</h1>
+
+<div class="info">
+  <strong>Co to ukazuje:</strong> Pro každý unit co čeká focení, vidíš:<br>
+  • <strong>IPC pointer</strong> — IPC-Mxxxxxx co byl naskenován v intake<br>
+  • <strong>Stav masteru</strong> — LIVE (existuje active eBay listing) / PUB_drift (master PUBLISHED ale listing nemá) / no master<br>
+  • <strong>Brand/MPN/Cap/Type</strong> — co to fyzicky za produkt podle masteru<br>
+  • <strong>eBay listing</strong> — odkaz na live listing pokud existuje (po focení bumpneš qty)
+</div>
+
+<div class="summary">
+  <div class="stat"><strong>18</strong>celkem</div>
+  <div class="stat"><strong>6</strong>AWAITING_PHOTO</div>
+  <div class="stat"><strong>10</strong>AWAITING_REPHOTO</div>
+  <div class="stat"><strong>9</strong>s IPC pointerem</div>
+  <div class="stat"><strong>0</strong>master nalezen</div>
+  <div class="stat" style="background:#e8f5e9"><strong>0</strong>master LIVE (po focení = bump qty)</div>
+</div>
+
+<div class="summary" style="margin-top:4px;font-size:11px;">
+  <span>Typ produktů u masterů: {}</span>
+</div>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Filtrovat AX / IPC / brand / MPN…" oninput="filt()">
+  <select id="fs" onchange="filt()">
+    <option value="">Všechny</option>
+    <option value="LIVE">jen LIVE master (rychlý bump)</option>
+    <option value="no master">jen bez master</option>
+    <option value="PUB_drift">jen drift</option>
+  </select>
+  <span style="font-size:11px;color:#888;margin-left:8px">Generated 2026-05-27 13:56</span>
+</div>
+
+<table>
+<thead><tr>
+  <th>AX</th><th>Poz</th><th>Stav</th><th>IPC pointer</th><th>Master</th>
+  <th>Brand</th><th>MPN</th><th>Kap.</th><th>Typ</th><th>eBay listing</th><th>Qty</th><th>Intake</th>
+</tr></thead>
+<tbody>
+<tr>
+  <td><strong>A2163</strong></td>
+  <td>2163</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A2073</strong></td>
+  <td>2073</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A2072</strong></td>
+  <td>2072</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A2066</strong></td>
+  <td>2066</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A2062</strong></td>
+  <td>2062</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A2059</strong></td>
+  <td>2059</td>
+  <td><span class="state-awaiting_photo">AWAITING_PHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-17</td>
+</tr><tr>
+  <td><strong>A1976</strong></td>
+  <td>1976</td>
+  <td><span class="state-new_intake_ean">NEW_INTAKE_EAN</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1810</strong></td>
+  <td>1810</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1738</strong></td>
+  <td>1738</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000890</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1660</strong></td>
+  <td>1660</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000846</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1649</strong></td>
+  <td>1649</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000811</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1597</strong></td>
+  <td>1597</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000706</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1578</strong></td>
+  <td>1578</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000612</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1540</strong></td>
+  <td>1540</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S000669</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1495</strong></td>
+  <td>1495</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S001235</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-19</td>
+</tr><tr>
+  <td><strong>A1490</strong></td>
+  <td>1490</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S001195</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-18</td>
+</tr><tr>
+  <td><strong>A1489</strong></td>
+  <td>1489</td>
+  <td><span class="state-awaiting_rephoto">AWAITING_REPHOTO</span></td>
+  <td><code>IPC-S001191</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-18</td>
+</tr><tr>
+  <td><strong>A1119</strong></td>
+  <td>1119</td>
+  <td><span class="state-label_pre_printed">LABEL_PRE_PRINTED</span></td>
+  <td><code>—</code></td>
+  <td><span style="color:#999;font-size:10px;">no master</span></td>
+  <td>—</td>
+  <td><code>—</code></td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>2026-05-18</td>
+</tr>
+</tbody></table>
+
+<script>
+function filt() {
+  const q = document.getElementById('q').value.toLowerCase();
+  const fs = document.getElementById('fs').value;
+  document.querySelectorAll('tbody tr').forEach(r => {
+    const t = r.innerText.toLowerCase();
+    const matchQ = !q || t.includes(q);
+    const matchFs = !fs || r.innerHTML.includes(fs);
+    r.hidden = !(matchQ && matchFs);
+  });
+}
+</script>
+</body></html>
