@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Curated disks. Source: factory.db master_products WHERE quality_score >= 0.5 -->
-<!-- Published: 101 | Skipped: 80 | Total scored: 1010 -->
+<!-- Published: 125 | Skipped: 56 | Total scored: 1010 -->
 <SHOP>
   <SHOPITEM>
     <NAME>HGST Pevný disk 2TB 7200rpm 3.5" SAS (0J32833)</NAME>
@@ -340,7 +340,30 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   <SHOPITEM>
     <NAME>OEM 256GB Solid State Drive - Interní Úložné Zařízení (256GB-SSD)</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>SSD OEM 256GB-SSD 256GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD OEM 256GB-SSD, kapacita 256GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SSE6FB8MSB; A269; A325; A403</small></p>]]></DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>OEM 256GB-SSD — 256GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>OEM 256GB-SSD</strong> o kapacitě <strong>256GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> OEM</li>
+  <li><strong>Model (MPN):</strong> 256GB-SSD</li>
+  <li><strong>Kapacita:</strong> 256GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>OEM</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -852,8 +875,31 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HGST 7K320 Pevný disk 7200rpm (7K320-160)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD HGST 7K320-160  ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD HGST 7K320-160, kapacita , formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD8ADFEMSB; A435; A634</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD HGST 7K320-160 160GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>HGST 7K320-160 — 160GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>HGST 7K320-160</strong> o kapacitě <strong>160GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> HGST</li>
+  <li><strong>Model (MPN):</strong> 7K320-160</li>
+  <li><strong>Kapacita:</strong> 160GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>HGST</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -866,14 +912,14 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description="HGST 7K320-160 ">https://claudelefi.github.io/importpc-photos/photos/HD8ADFEMSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>HGST</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="HGST 7K320-160 160GB">https://claudelefi.github.io/importpc-photos/photos/HD8ADFEMSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>160GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>HGST</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>HGST 7K320-160  HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>HGST 7K320-160  HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>HGST 7K320-160 160GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>HGST 7K320-160 160GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -1164,8 +1210,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Hitachi HTS725032A7E630 (HTS725032A7E630)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi HTS725032A7E630 0.2 ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD Hitachi HTS725032A7E630, kapacita 0.2, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HDB4A58MSB; A670; A676; A741; A742; A743; A744; A745; A746; A747; A748; A749; A750; A762; A766; A767; A768; A769; A770; A771; A772; A773; A774; A775; A776; A777; A778; A779; A780; A781; A817; A818; A819; A820; A821; A822; A823; A824; A825; A826; A827; A828; A829; A830; A869; A925; A926; A927; A928; A929; A930</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi HTS725032A7E630 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi HTS725032A7E630 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi HTS725032A7E630</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> HTS725032A7E630</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>Hitachi</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -1178,14 +1247,14 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description="Hitachi HTS725032A7E630 0.2">https://claudelefi.github.io/importpc-photos/photos/HDB4A58MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>0.2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Hitachi HTS725032A7E630 320GB">https://claudelefi.github.io/importpc-photos/photos/HDB4A58MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>Hitachi HTS725032A7E630 0.2 HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>Hitachi HTS725032A7E630 0.2 HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>Hitachi HTS725032A7E630 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi HTS725032A7E630 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -1476,8 +1545,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Seagate ST320LT007 (ST320LT007)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST320LT007 0.2 ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD Seagate ST320LT007, kapacita 0.2, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD0CA75MSB; A217; A632; A650; A658; A659; A683; A684; A751; A752; A753; A754; A755; A756; A757; A758; A759; A760; A784; A785; A786; A787; A788; A789; A790; A791; A792; A793; A794; A839; A840; A841; A842; A843; A844; A845; A909; A910; A911; A912; A913; A914; A915; A916; A917; A918; A919; A920; A921; A922; IPC-S004223</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST320LT007 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Seagate ST320LT007 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Seagate ST320LT007</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Seagate</li>
+  <li><strong>Model (MPN):</strong> ST320LT007</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>Seagate</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -1490,14 +1582,14 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description="Seagate ST320LT007 0.2">https://claudelefi.github.io/importpc-photos/photos/HD0CA75MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>0.2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Seagate ST320LT007 320GB">https://claudelefi.github.io/importpc-photos/photos/HD0CA75MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>Seagate ST320LT007 0.2 HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>Seagate ST320LT007 0.2 HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>Seagate ST320LT007 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Seagate ST320LT007 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -1580,6 +1672,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE>230</PRICE>
     <PRODUCT_NUMBER>WD3200LPVX</PRODUCT_NUMBER>
     <PART_NUMBER>WD3200LPVX</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hitachi HTS725032A7E630 (Z7K500-320)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K500-320 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z7K500-320 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z7K500-320</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z7K500-320</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDC21CDMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi Z7K500-320 320GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi Z7K500-320 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z7K500-320 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S004220</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>210</PRICE>
+    <PRODUCT_NUMBER>Z7K500-320</PRODUCT_NUMBER>
+    <PART_NUMBER>Z7K500-320</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
@@ -1854,6 +2013,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Hitachi HTS543216L9A300 (Z5K320-160)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z5K320-160 160GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z5K320-160 — 160GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z5K320-160</strong> o kapacitě <strong>160GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z5K320-160</li>
+  <li><strong>Kapacita:</strong> 160GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD59438MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi Z5K320-160 160GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>160GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi Z5K320-160 160GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z5K320-160 160GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S003724</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>440</PRICE>
+    <PRODUCT_NUMBER>Z5K320-160</PRODUCT_NUMBER>
+    <PART_NUMBER>Z5K320-160</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Toshiba MQ01 MQ01ABD032 320GB 2.5" SATA II HDD 5400rpm</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>HDD Toshiba MQ01ABD032 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>Toshiba MQ01ABD032 — 320GB HDD (2,5" SATA)</h2>
@@ -2056,8 +2282,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Hitachi HTS725050A7E630 (Z7K500-500)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K500-500 0.2 ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K500-500, kapacita 0.2, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD2CE70MSB; A888; IPC-S003480; IPC-S003523; IPC-S003524; IPC-S003526; IPC-S003533; IPC-S003535; IPC-S003538; IPC-S003574; IPC-S003638; IPC-S003722; IPC-S003723; IPC-S003823</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K500-500 500GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z7K500-500 — 500GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z7K500-500</strong> o kapacitě <strong>500GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z7K500-500</li>
+  <li><strong>Kapacita:</strong> 500GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>Hitachi</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -2070,14 +2319,14 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description="Hitachi Z7K500-500 0.2">https://claudelefi.github.io/importpc-photos/photos/HD2CE70MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>0.2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Hitachi Z7K500-500 500GB">https://claudelefi.github.io/importpc-photos/photos/HD2CE70MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>500GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>Hitachi Z7K500-500 0.2 HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>Hitachi Z7K500-500 0.2 HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>Hitachi Z7K500-500 500GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z7K500-500 500GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -2568,6 +2817,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Hitachi HTS723216A7A364 (Z7K320-160)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K320-160 160GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z7K320-160 — 160GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z7K320-160</strong> o kapacitě <strong>160GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z7K320-160</li>
+  <li><strong>Kapacita:</strong> 160GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD020B6MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi Z7K320-160 160GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>160GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi Z7K320-160 160GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z7K320-160 160GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S003854</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>250</PRICE>
+    <PRODUCT_NUMBER>Z7K320-160</PRODUCT_NUMBER>
+    <PART_NUMBER>Z7K320-160</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Hitachi Travelstar 7K1000-1000 1TB 2.5" SATA II/III HDD 7200rpm</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi 7K1000-1000 1TB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>Hitachi 7K1000-1000 — 1TB HDD (2,5" SATA)</h2>
@@ -2702,6 +3018,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Seagate ST320LT012 (ST320LT012)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST320LT012 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Seagate ST320LT012 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Seagate ST320LT012</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Seagate</li>
+  <li><strong>Model (MPN):</strong> ST320LT012</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Seagate</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD8C212MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Seagate ST320LT012 320GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Seagate ST320LT012 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Seagate ST320LT012 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S004216</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>470</PRICE>
+    <PRODUCT_NUMBER>ST320LT012</PRODUCT_NUMBER>
+    <PART_NUMBER>ST320LT012</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Western Digital WD5000LPLX 500GB 3.5" SATA III HDD 7200rpm</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>HDD Western Digital WD5000LPLX 500GB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>Western Digital WD5000LPLX — 500GB HDD (3,5" SATA)</h2>
@@ -2763,6 +3146,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE>380</PRICE>
     <PRODUCT_NUMBER>WD5000LPLX</PRODUCT_NUMBER>
     <PART_NUMBER>WD5000LPLX</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hitachi HTS543232A7A384 (Z5K320-320)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z5K320-320 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z5K320-320 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z5K320-320</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z5K320-320</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDDE7A7MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi Z5K320-320 320GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi Z5K320-320 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z5K320-320 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S004053</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>150</PRICE>
+    <PRODUCT_NUMBER>Z5K320-320</PRODUCT_NUMBER>
+    <PART_NUMBER>Z5K320-320</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
@@ -2964,6 +3414,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE>1130</PRICE>
     <PRODUCT_NUMBER>0F10939</PRODUCT_NUMBER>
     <PART_NUMBER>0F10939</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hitachi HTS721010A9E630 (HTS721010A9E630)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi HTS721010A9E630 100GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi HTS721010A9E630 — 100GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi HTS721010A9E630</strong> o kapacitě <strong>100GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> HTS721010A9E630</li>
+  <li><strong>Kapacita:</strong> 100GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDDB292MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi HTS721010A9E630 100GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>100GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi HTS721010A9E630 100GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi HTS721010A9E630 100GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>RPC-S003845</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>630</PRICE>
+    <PRODUCT_NUMBER>HTS721010A9E630</PRODUCT_NUMBER>
+    <PART_NUMBER>HTS721010A9E630</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
@@ -3506,6 +4023,73 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>OEM 256GB SSD úložiště (EDILOCA-EN206-256GB)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD OEM EDILOCA-EN206-256GB 256GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>OEM EDILOCA-EN206-256GB — 256GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>OEM EDILOCA-EN206-256GB</strong> o kapacitě <strong>256GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> OEM</li>
+  <li><strong>Model (MPN):</strong> EDILOCA-EN206-256GB</li>
+  <li><strong>Kapacita:</strong> 256GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>OEM</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SS2EE5BMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>256GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>OEM</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>OEM EDILOCA-EN206-256GB 256GB SSD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>OEM EDILOCA-EN206-256GB 256GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R283</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>880</PRICE>
+    <PRODUCT_NUMBER>EDILOCA-EN206-256GB</PRODUCT_NUMBER>
+    <PART_NUMBER>EDILOCA-EN206-256GB</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HGST Travelstar 320GB 7200RPM 2,5" SATA HDD (HTS543216L9A300)</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>HDD HGST HTS543216L9A300 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>HGST HTS543216L9A300 — 320GB HDD (2,5" SATA)</h2>
@@ -3818,6 +4402,73 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Hikvision 256GB E100N SSD (HS-SSD-E100N-256G)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD Hikvision HS-SSD-E100N-256G 256GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hikvision HS-SSD-E100N-256G — 256GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>Hikvision HS-SSD-E100N-256G</strong> o kapacitě <strong>256GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hikvision</li>
+  <li><strong>Model (MPN):</strong> HS-SSD-E100N-256G</li>
+  <li><strong>Kapacita:</strong> 256GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SSB7BFFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>256GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hikvision</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hikvision HS-SSD-E100N-256G 256GB SSD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hikvision HS-SSD-E100N-256G 256GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R349</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>640</PRICE>
+    <PRODUCT_NUMBER>HS-SSD-E100N-256G</PRODUCT_NUMBER>
+    <PART_NUMBER>HS-SSD-E100N-256G</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HGST Travelstar 7K 320GB 7200rpm 2.5" Laptop HDD (HTS545032A7E380)</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>HDD HGST HTS545032A7E380 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>HGST HTS545032A7E380 — 320GB HDD (2,5" SATA)</h2>
@@ -4019,9 +4670,99 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>LITEON 128GB M.2 SATA 2280 SSD (L8H-128V2G-HP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD LITEON L8H-128V2G-HP 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>LITEON L8H-128V2G-HP — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>LITEON L8H-128V2G-HP</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> LITEON</li>
+  <li><strong>Model (MPN):</strong> L8H-128V2G-HP</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>LITEON</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SS11DBFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="LITEON L8H-128V2G-HP 128GB">https://claudelefi.github.io/importpc-photos/illust/m2-sata-2280.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>LITEON</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>LITEON L8H-128V2G-HP 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>LITEON L8H-128V2G-HP 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RL000183</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>730</PRICE>
+    <PRODUCT_NUMBER>L8H-128V2G-HP</PRODUCT_NUMBER>
+    <PART_NUMBER>L8H-128V2G-HP</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>WDC 128GB M.2 SATA 2280 SSD (WDS120G2G0B-00EPW0)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>SSD WDC WDS120G2G0B-00EPW0 128GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD WDC WDS120G2G0B-00EPW0, kapacita 128GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS7D5C3MSB; CL000190; CL000217</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD WDC WDS120G2G0B-00EPW0 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>WDC WDS120G2G0B-00EPW0 — 128GB SSD (M.2 2280 NVMe)</h2>
+<p>Použitý SSD disk <strong>WDC WDS120G2G0B-00EPW0</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 NVMe</strong>, rozhraní <strong>NVMe (PCIe)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> WDC</li>
+  <li><strong>Model (MPN):</strong> WDS120G2G0B-00EPW0</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 NVMe</li>
+  <li><strong>Rozhraní:</strong> NVMe (PCIe)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC s rozhraním M.2 PCIe NVMe.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>WDC</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4035,13 +4776,13 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES><IMAGE description="WDC WDS120G2G0B-00EPW0 128GB">https://claudelefi.github.io/importpc-photos/photos/SS7D5C3MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>WDC WDS120G2G0B-00EPW0 128GB SSD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>WDC WDS120G2G0B-00EPW0 128GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>WDC WDS120G2G0B-00EPW0 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>WDC WDS120G2G0B-00EPW0 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -4064,8 +4805,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>INTENSO INTENSO SSD 128GB M.2 SATA SSD NGFF 2280</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>SSD INTENSO INTENSO SSD 128GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD INTENSO INTENSO SSD, kapacita 128GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS3F190MSB; CL000239; CL000378</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD INTENSO INTENSO SSD 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>INTENSO INTENSO SSD — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>INTENSO INTENSO SSD</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> INTENSO</li>
+  <li><strong>Model (MPN):</strong> INTENSO SSD</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>INTENSO</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4079,13 +4843,13 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES><IMAGE description="INTENSO INTENSO SSD 128GB">https://claudelefi.github.io/importpc-photos/photos/SS3F190MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>INTENSO</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>INTENSO</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>INTENSO INTENSO SSD 128GB SSD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>INTENSO INTENSO SSD 128GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>INTENSO INTENSO SSD 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>INTENSO INTENSO SSD 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -4107,9 +4871,702 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Firmware:         V0609A0 128GB M.2 SATA 2280 SSD (INTENSO)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD Firmware:         V0609A0 INTENSO 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Firmware:         V0609A0 INTENSO — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>Firmware:         V0609A0 INTENSO</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Firmware:         V0609A0</li>
+  <li><strong>Model (MPN):</strong> INTENSO</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Firmware:         V0609A0</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SS057D3MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Firmware:         V0609A0 INTENSO 128GB">https://claudelefi.github.io/importpc-photos/illust/m2-sata-2280.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Firmware:         V0609A0</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Firmware:         V0609A0 INTENSO 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>Firmware:         V0609A0 INTENSO 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RL000394</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>730</PRICE>
+    <PRODUCT_NUMBER>INTENSO</PRODUCT_NUMBER>
+    <PART_NUMBER>INTENSO</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kingston 128GB M.2 SATA 2280 SSD (SA400M8120G)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD Kingston SA400M8120G 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Kingston SA400M8120G — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>Kingston SA400M8120G</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Kingston</li>
+  <li><strong>Model (MPN):</strong> SA400M8120G</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Kingston</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SSAB64CMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Kingston SA400M8120G 128GB">https://claudelefi.github.io/importpc-photos/illust/m2-sata-2280.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Kingston</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Kingston SA400M8120G 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>Kingston SA400M8120G 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RL000406</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>730</PRICE>
+    <PRODUCT_NUMBER>SA400M8120G</PRODUCT_NUMBER>
+    <PART_NUMBER>SA400M8120G</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>OEM 256GB SSD (KINGPAN-SSD-256GB)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD Kingpan KINGPAN-SSD-256GB 256GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Kingpan KINGPAN-SSD-256GB — 256GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>Kingpan KINGPAN-SSD-256GB</strong> o kapacitě <strong>256GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Kingpan</li>
+  <li><strong>Model (MPN):</strong> KINGPAN-SSD-256GB</li>
+  <li><strong>Kapacita:</strong> 256GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Kingpan</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>SSDE89AMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>256GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Kingpan</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Kingpan KINGPAN-SSD-256GB 256GB SSD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Kingpan KINGPAN-SSD-256GB 256GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R313</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>590</PRICE>
+    <PRODUCT_NUMBER>KINGPAN-SSD-256GB</PRODUCT_NUMBER>
+    <PART_NUMBER>KINGPAN-SSD-256GB</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Seagate ST2000DM008 2TB 3,5" SATA pevny disk (2FR102-300)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate 2FR102-300 2TB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Seagate 2FR102-300 — 2TB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Seagate 2FR102-300</strong> o kapacitě <strong>2TB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Seagate</li>
+  <li><strong>Model (MPN):</strong> 2FR102-300</li>
+  <li><strong>Kapacita:</strong> 2TB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Seagate</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDE6271MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Seagate 2FR102-300 2TB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>2TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Seagate 2FR102-300 2TB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Seagate 2FR102-300 2TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-M001319</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>1130</PRICE>
+    <PRODUCT_NUMBER>2FR102-300</PRODUCT_NUMBER>
+    <PART_NUMBER>2FR102-300</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hitachi HDS721050CLA662 500GB 3,5" SATA pevny disk (0F15012)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi 0F15012 500GB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi 0F15012 — 500GB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi 0F15012</strong> o kapacitě <strong>500GB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> 0F15012</li>
+  <li><strong>Kapacita:</strong> 500GB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD934BFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi 0F15012 500GB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>500GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi 0F15012 500GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi 0F15012 500GB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-M001313</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>480</PRICE>
+    <PRODUCT_NUMBER>0F15012</PRODUCT_NUMBER>
+    <PART_NUMBER>0F15012</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Western Digital WD1600AAJS-00PSA0 160GB 3,5" SATA pevny disk (WD1600AAJS)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Western Digital WD1600AAJS 160GB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Western Digital WD1600AAJS — 160GB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Western Digital WD1600AAJS</strong> o kapacitě <strong>160GB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Western Digital</li>
+  <li><strong>Model (MPN):</strong> WD1600AAJS</li>
+  <li><strong>Kapacita:</strong> 160GB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Western Digital</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDF1BA3MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Western Digital WD1600AAJS 160GB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>160GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Western Digital</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Western Digital WD1600AAJS 160GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Western Digital WD1600AAJS 160GB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-M001320</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>210</PRICE>
+    <PRODUCT_NUMBER>WD1600AAJS</PRODUCT_NUMBER>
+    <PART_NUMBER>WD1600AAJS</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Samsung HD322HJ 320GB 3,5" SATA pevny disk (HD322HJ)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Samsung HD322HJ 320GB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Samsung HD322HJ — 320GB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Samsung HD322HJ</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Samsung</li>
+  <li><strong>Model (MPN):</strong> HD322HJ</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Samsung</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD994AFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Samsung HD322HJ 320GB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Samsung</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Samsung HD322HJ 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Samsung HD322HJ 320GB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-M001314</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>260</PRICE>
+    <PRODUCT_NUMBER>HD322HJ</PRODUCT_NUMBER>
+    <PART_NUMBER>HD322HJ</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Seagate ST1000DM003-1CH162 1TB 3,5" SATA pevny disk</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST1000DM003-1CH162 1TB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Seagate ST1000DM003-1CH162 — 1TB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Seagate ST1000DM003-1CH162</strong> o kapacitě <strong>1TB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Seagate</li>
+  <li><strong>Model (MPN):</strong> ST1000DM003-1CH162</li>
+  <li><strong>Kapacita:</strong> 1TB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Seagate</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDC5EDFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Seagate ST1000DM003-1CH162 1TB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>1TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Seagate ST1000DM003-1CH162 1TB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Seagate ST1000DM003-1CH162 1TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>RL000126</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>470</PRICE>
+    <PRODUCT_NUMBER>ST1000DM003-1CH162</PRODUCT_NUMBER>
+    <PART_NUMBER>ST1000DM003-1CH162</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>WDC WD10EZEX-21M2NA0 1TB 3,5" SATA pevny disk</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD WDC WD10EZEX-21M2NA0 1TB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>WDC WD10EZEX-21M2NA0 — 1TB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>WDC WD10EZEX-21M2NA0</strong> o kapacitě <strong>1TB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> WDC</li>
+  <li><strong>Model (MPN):</strong> WD10EZEX-21M2NA0</li>
+  <li><strong>Kapacita:</strong> 1TB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>WDC</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD989B9MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="WDC WD10EZEX-21M2NA0 1TB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>1TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>WDC WD10EZEX-21M2NA0 1TB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>WDC WD10EZEX-21M2NA0 1TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>7</VALUE><LOCATION>RL000140</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>470</PRICE>
+    <PRODUCT_NUMBER>WD10EZEX-21M2NA0</PRODUCT_NUMBER>
+    <PART_NUMBER>WD10EZEX-21M2NA0</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>WDC WD10EZEX-75WN4A0 1TB 3,5" SATA pevny disk</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD WDC WD10EZEX-75WN4A0 1TB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>WDC WD10EZEX-75WN4A0 — 1TB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>WDC WD10EZEX-75WN4A0</strong> o kapacitě <strong>1TB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> WDC</li>
+  <li><strong>Model (MPN):</strong> WD10EZEX-75WN4A0</li>
+  <li><strong>Kapacita:</strong> 1TB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>WDC</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDA85DFMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="WDC WD10EZEX-75WN4A0 1TB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>1TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>WDC WD10EZEX-75WN4A0 1TB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>WDC WD10EZEX-75WN4A0 1TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RL000139</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>470</PRICE>
+    <PRODUCT_NUMBER>WD10EZEX-75WN4A0</PRODUCT_NUMBER>
+    <PART_NUMBER>WD10EZEX-75WN4A0</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Seagate ST31000524AS 1TB 3,5" SATA pevny disk</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST31000524AS 1TB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD Seagate ST31000524AS, kapacita 1TB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD1F83FMSB; CL000137</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Seagate ST31000524AS 1TB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Seagate ST31000524AS — 1TB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Seagate ST31000524AS</strong> o kapacitě <strong>1TB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Seagate</li>
+  <li><strong>Model (MPN):</strong> ST31000524AS</li>
+  <li><strong>Kapacita:</strong> 1TB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>Seagate</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4123,13 +5580,13 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES><IMAGE description="Seagate ST31000524AS 1TB">https://claudelefi.github.io/importpc-photos/photos/HD1F83FMSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>1TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>1TB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Seagate</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <SEO_TITLE>Seagate ST31000524AS 1TB HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>Seagate ST31000524AS 1TB HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <META_DESCRIPTION>Seagate ST31000524AS 1TB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -4220,7 +5677,30 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   <SHOPITEM>
     <NAME>Intenso 256GB SSD Solid State Drive Úložiště (INTENSO-SSD-256GB)</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>SSD Intenso INTENSO-SSD-256GB 256GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD Intenso INTENSO-SSD-256GB, kapacita 256GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SSEC754MSB; A257</small></p>]]></DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Intenso INTENSO-SSD-256GB — 256GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>Intenso INTENSO-SSD-256GB</strong> o kapacitě <strong>256GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intenso</li>
+  <li><strong>Model (MPN):</strong> INTENSO-SSD-256GB</li>
+  <li><strong>Kapacita:</strong> 256GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>Intenso</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4263,8 +5743,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>SK Hynix SC311 128GB M.2 SATA SSD NGFF 2280</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>SSD SK Hynix SC311 128GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD SK Hynix SC311, kapacita 128GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS3BA0AMSB; CL000326; CL000390</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD SK Hynix SC311 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>SK Hynix SC311 — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>SK Hynix SC311</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> SK Hynix</li>
+  <li><strong>Model (MPN):</strong> SC311</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>SK Hynix</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4278,13 +5781,13 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES><IMAGE description="SK Hynix SC311 128GB">https://claudelefi.github.io/importpc-photos/photos/SS3BA0AMSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>SK Hynix</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>SK Hynix</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>SK Hynix SC311 128GB SSD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>SK Hynix SC311 128GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>SK Hynix SC311 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>SK Hynix SC311 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -4307,8 +5810,31 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>SK Hynix SC308 128GB M.2 SATA SSD NGFF 2280</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>SSD SK Hynix SC308 128GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD SK Hynix SC308, kapacita 128GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS8B953MSB; CL000370; CL000400</small></p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD SK Hynix SC308 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>SK Hynix SC308 — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>SK Hynix SC308</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> SK Hynix</li>
+  <li><strong>Model (MPN):</strong> SC308</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>SK Hynix</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4322,13 +5848,13 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES><IMAGE description="SK Hynix SC308 128GB">https://claudelefi.github.io/importpc-photos/photos/SS8B953MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>SK Hynix</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>SK Hynix</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>SK Hynix SC308 128GB SSD SATA III</SEO_TITLE>
-    <META_DESCRIPTION>SK Hynix SC308 128GB SSD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>SK Hynix SC308 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>SK Hynix SC308 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -4350,9 +5876,99 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Teclast NS550-2242 128GB M.2 SATA SSD NGFF 2280</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>SSD Teclast NS550-2242 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Teclast NS550-2242 — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>Teclast NS550-2242</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Teclast</li>
+  <li><strong>Model (MPN):</strong> NS550-2242</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Teclast</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>TECLAST-NS550-256-2242-A1274</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Teclast NS550-2242 128GB">https://claudelefi.github.io/importpc-photos/illust/m2-sata-2280.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>M.2 2280</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>M.2 SATA</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>128GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Teclast</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Teclast NS550-2242 128GB SSD M.2 SATA</SEO_TITLE>
+    <META_DESCRIPTION>Teclast NS550-2242 128GB SSD M.2 2280 M.2 SATA, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1274</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>730</PRICE>
+    <PRODUCT_NUMBER>NS550-2242</PRODUCT_NUMBER>
+    <PART_NUMBER>NS550-2242</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>KUU 512GB SSD Úložiště (KUU-512GB)</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>SSD KUU KUU-512GB 512GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD KUU KUU-512GB, kapacita 512GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS6B58FMSB; A246</small></p>]]></DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>KUU KUU-512GB — 512GB SSD (2,5" SATA)</h2>
+<p>Použitý SSD disk <strong>KUU KUU-512GB</strong> o kapacitě <strong>512GB</strong>,
+form factor <strong>2,5" SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> KUU</li>
+  <li><strong>Model (MPN):</strong> KUU-512GB</li>
+  <li><strong>Kapacita:</strong> 512GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER>KUU</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -4396,7 +6012,30 @@ otestován (SMART OK) a připraven k dalšímu použití.</p>
   <SHOPITEM>
     <NAME>M.2 SSD 128GB</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>SSD  M.2 SSD 128GB 128GB M.2 2280 M.2 SATA. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>SSD  M.2 SSD 128GB, kapacita 128GB, formát M.2 2280, rozhraní M.2 SATA. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: SS37E13MSB; CL000200</small></p>]]></DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>OEM M.2 SSD 128GB — 128GB SSD (M.2 2280 SATA)</h2>
+<p>Použitý SSD disk <strong>OEM M.2 SSD 128GB</strong> o kapacitě <strong>128GB</strong>,
+form factor <strong>M.2 2280 SATA</strong>, rozhraní <strong>SATA III (6 Gb/s)</strong>.
+Disk byl vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> OEM</li>
+  <li><strong>Model (MPN):</strong> M.2 SSD 128GB</li>
+  <li><strong>Kapacita:</strong> 128GB</li>
+  <li><strong>Form factor:</strong> M.2 2280 SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook / desktop / mini PC se SATA rozhraním.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
     <MANUFACTURER></MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -6247,10 +7886,121 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>WD2500BEKT</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD WDC WD2500BEKT 250GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>HDD WDC WD2500BEKT, kapacita 250GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD07587MSB; A892</small></p>]]></DESCRIPTION>
+    <MANUFACTURER>WDC</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD07587MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="WDC WD2500BEKT 250GB">https://claudelefi.github.io/importpc-photos/photos/HD07587MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>250GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>WDC WD2500BEKT 250GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>WDC WD2500BEKT 250GB HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R892</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>440</PRICE>
+    <PRODUCT_NUMBER>WD2500BEKT</PRODUCT_NUMBER>
+    <PART_NUMBER>WD2500BEKT</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>MK1665GSX</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Toshiba MK1665GSX  2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>HDD Toshiba MK1665GSX, kapacita , formát 2,5", rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD91265MSB; A889; A890</small></p>]]></DESCRIPTION>
+    <MANUFACTURER>Toshiba</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD91265MSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Toshiba MK1665GSX ">https://claudelefi.github.io/importpc-photos/photos/HD91265MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Toshiba</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Toshiba MK1665GSX  HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Toshiba MK1665GSX  HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R889</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>440</PRICE>
+    <PRODUCT_NUMBER>MK1665GSX</PRODUCT_NUMBER>
+    <PART_NUMBER>MK1665GSX</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>WD7500BPVT 750GB</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD  WD7500BPVT 750GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD  WD7500BPVT, kapacita 750GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD01460MSB; A885; A886; A887</small></p>]]></DESCRIPTION>
-    <MANUFACTURER></MANUFACTURER>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD WDC WD7500BPVT 750GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>WDC WD7500BPVT — 750GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>WDC WD7500BPVT</strong> o kapacitě <strong>750GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> WDC</li>
+  <li><strong>Model (MPN):</strong> WD7500BPVT</li>
+  <li><strong>Kapacita:</strong> 750GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>WDC</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
     <ADULT>0</ADULT>
@@ -6262,14 +8012,14 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description=" WD7500BPVT 750GB">https://claudelefi.github.io/importpc-photos/photos/HD01460MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>750GB</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="WDC WD7500BPVT 750GB">https://claudelefi.github.io/importpc-photos/photos/HD01460MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>750GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>WD7500BPVT 750GB HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION> WD7500BPVT 750GB HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>WDC WD7500BPVT 750GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>WDC WD7500BPVT 750GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -6292,9 +8042,32 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Z5K500-320 320GB</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>HDD  Z5K500-320 320GB ? SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<p>HDD  Z5K500-320, kapacita 320GB, formát ?, rozhraní SATA III. Použité, otestované, vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</p><p><small>Použité zboží — režim § 90 ZDPH. Daň není rozepsána na faktuře.</small></p><p><small>Interní kód: HD04293MSB; A442; A629; A642; A865; A866</small></p>]]></DESCRIPTION>
-    <MANUFACTURER></MANUFACTURER>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z5K500-320 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z5K500-320 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z5K500-320</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z5K500-320</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
     <ADULT>0</ADULT>
@@ -6306,14 +8079,14 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
       <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
       <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <IMAGES><IMAGE description=" Z5K500-320 320GB">https://claudelefi.github.io/importpc-photos/photos/HD04293MSB/mfr_01.jpg</IMAGE></IMAGES>
-    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>?</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Hitachi Z5K500-320 320GB">https://claudelefi.github.io/importpc-photos/photos/HD04293MSB/mfr_01.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
     <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
     <VISIBILITY>visible</VISIBILITY>
-    <SEO_TITLE>Z5K500-320 320GB HDD SATA III</SEO_TITLE>
-    <META_DESCRIPTION> Z5K500-320 320GB HDD ? SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <SEO_TITLE>Hitachi Z5K500-320 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z5K500-320 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
@@ -6329,6 +8102,140 @@ Disk byl vytažen z plně funkčního počítače, otestován a připraven k dal
     <PRICE>440</PRICE>
     <PRODUCT_NUMBER>Z5K500-320</PRODUCT_NUMBER>
     <PART_NUMBER>Z5K500-320</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Z7K320-320 320GB</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD Hitachi Z7K320-320 320GB 2,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Hitachi Z7K320-320 — 320GB HDD (2,5" SATA)</h2>
+<p>Použitý pevný disk <strong>Hitachi Z7K320-320</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>2,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hitachi</li>
+  <li><strong>Model (MPN):</strong> Z7K320-320</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 2,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>notebook, mini PC, externí box.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>Hitachi</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HDA235BMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="Hitachi Z7K320-320 320GB">https://claudelefi.github.io/importpc-photos/illust/2-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Hitachi</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>Hitachi Z7K320-320 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>Hitachi Z7K320-320 320GB HDD 2,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>6</VALUE><LOCATION>R443</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>440</PRICE>
+    <PRODUCT_NUMBER>Z7K320-320</PRODUCT_NUMBER>
+    <PART_NUMBER>Z7K320-320</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>WD3200LPLX</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>HDD WDC WD3200LPLX 320GB 3,5" SATA III. Použitý, otestovaný. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>WDC WD3200LPLX — 320GB HDD (3,5" SATA)</h2>
+<p>Použitý pevný disk <strong>WDC WD3200LPLX</strong> o kapacitě <strong>320GB</strong>,
+form factor <strong>3,5" SATA</strong>. Disk byl vytažen z plně funkčního počítače,
+otestován (SMART OK) a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> WDC</li>
+  <li><strong>Model (MPN):</strong> WD3200LPLX</li>
+  <li><strong>Kapacita:</strong> 320GB</li>
+  <li><strong>Form factor:</strong> 3,5" SATA</li>
+  <li><strong>Rozhraní:</strong> SATA III (6 Gb/s)</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný (SMART OK)</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, servery, NAS.</p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div>]]></DESCRIPTION>
+    <MANUFACTURER>WDC</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>HD903BBMSB</CODE>
+    
+    <CATEGORIES>
+      <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+      <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES><IMAGE description="WDC WD3200LPLX 320GB">https://claudelefi.github.io/importpc-photos/illust/3-5-SATA-HDD.jpg</IMAGE></IMAGES>
+    <INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>3,5"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA III</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>WDC</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS><FLAG><CODE>new</CODE><ACTIVE>1</ACTIVE></FLAG></FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <SEO_TITLE>WDC WD3200LPLX 320GB HDD SATA III</SEO_TITLE>
+    <META_DESCRIPTION>WDC WD3200LPLX 320GB HDD 3,5" SATA III, testovaný, záruka 24 měsíců.</META_DESCRIPTION>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R765</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>440</PRICE>
+    <PRODUCT_NUMBER>WD3200LPLX</PRODUCT_NUMBER>
+    <PART_NUMBER>WD3200LPLX</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
