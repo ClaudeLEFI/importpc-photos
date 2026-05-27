@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Curated CPU. Lookup-based. -->
+<!-- Published: 14 | Skipped: 65 -->
+<SHOP>
+  <SHOPITEM>
+    <CODE>CELERON-B840-A1381</CODE>
+    <NAME>Intel Celeron B840</NAME>
+    <SEO_TITLE>Intel Celeron B840 rPGA988B 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron B840, 2C/2T 1.9GHz rPGA988B, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron B840, 2C/2T, 1.9 GHz, socket rPGA988B, TDP 35W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron B840 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron B840</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron B840</li>
+  <li><strong>Generace:</strong> Sandy Bridge</li>
+  <li><strong>Socket:</strong> rPGA988B</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 1.9 GHz</li>
+  <li><strong>TDP:</strong> 35 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron B840</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>rPGA988B</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>1.9 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Sandy Bridge</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron B840">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1381</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>150</PRICE>
+    <PRODUCT_NUMBER>CELERON-B840</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-B840</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G1820-A2133</CODE>
+    <NAME>Intel Celeron G1820</NAME>
+    <SEO_TITLE>Intel Celeron G1820 LGA1150 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G1820, 2C/2T 2.7GHz LGA1150, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G1820, 2C/2T, 2.7 GHz, socket LGA1150, TDP 53W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G1820 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G1820</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G1820</li>
+  <li><strong>Generace:</strong> Haswell</li>
+  <li><strong>Socket:</strong> LGA1150</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 2.7 GHz</li>
+  <li><strong>TDP:</strong> 53 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G1820</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1150</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.7 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>53 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Haswell</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G1820">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R2133</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>250</PRICE>
+    <PRODUCT_NUMBER>CELERON-G1820</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G1820</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G1830-A2114</CODE>
+    <NAME>Intel Celeron G1830</NAME>
+    <SEO_TITLE>Intel Celeron G1830 LGA1150 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G1830, 2C/2T 2.8GHz LGA1150, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G1830, 2C/2T, 2.8 GHz, socket LGA1150, TDP 53W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G1830 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G1830</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G1830</li>
+  <li><strong>Generace:</strong> Haswell</li>
+  <li><strong>Socket:</strong> LGA1150</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 2.8 GHz</li>
+  <li><strong>TDP:</strong> 53 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G1830</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1150</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.8 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>53 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Haswell</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G1830">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R2114</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>280</PRICE>
+    <PRODUCT_NUMBER>CELERON-G1830</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G1830</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G3950-A2128</CODE>
+    <NAME>Intel Celeron G3950</NAME>
+    <SEO_TITLE>Intel Celeron G3950 LGA1151 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G3950, 2C/2T 3.0GHz LGA1151, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G3950, 2C/2T, 3.0 GHz, socket LGA1151, TDP 51W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G3950 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G3950</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G3950</li>
+  <li><strong>Generace:</strong> Kaby Lake</li>
+  <li><strong>Socket:</strong> LGA1151</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 3.0 GHz</li>
+  <li><strong>TDP:</strong> 51 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G3950</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.0 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>51 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Kaby Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G3950">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R2128</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>450</PRICE>
+    <PRODUCT_NUMBER>CELERON-G3950</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G3950</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G4900-A2152</CODE>
+    <NAME>Intel Celeron G4900</NAME>
+    <SEO_TITLE>Intel Celeron G4900 LGA1151 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G4900, 2C/2T 3.1GHz LGA1151, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G4900, 2C/2T, 3.1 GHz, socket LGA1151, TDP 54W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G4900 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G4900</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G4900</li>
+  <li><strong>Generace:</strong> Coffee Lake</li>
+  <li><strong>Socket:</strong> LGA1151</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 3.1 GHz</li>
+  <li><strong>TDP:</strong> 54 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G4900</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.1 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>54 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Coffee Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G4900">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>7</VALUE><LOCATION>R2120</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>500</PRICE>
+    <PRODUCT_NUMBER>CELERON-G4900</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G4900</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G4930T-A2119</CODE>
+    <NAME>Intel Celeron G4930T</NAME>
+    <SEO_TITLE>Intel Celeron G4930T LGA1151 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G4930T, 2C/2T 3.0GHz LGA1151, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G4930T, 2C/2T, 3.0 GHz, socket LGA1151, TDP 35W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G4930T — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G4930T</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G4930T</li>
+  <li><strong>Generace:</strong> Coffee Lake</li>
+  <li><strong>Socket:</strong> LGA1151</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 3.0 GHz</li>
+  <li><strong>TDP:</strong> 35 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G4930T</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.0 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Coffee Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G4930T">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R2119</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>600</PRICE>
+    <PRODUCT_NUMBER>CELERON-G4930T</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G4930T</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-CELERON-G5925-A2129</CODE>
+    <NAME>Intel Celeron G5925</NAME>
+    <SEO_TITLE>Intel Celeron G5925 LGA1200 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G5925, 2C/2T 3.6GHz LGA1200, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Celeron G5925, 2C/2T, 3.6 GHz, socket LGA1200, TDP 58W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Celeron G5925 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Celeron G5925</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Celeron G5925</li>
+  <li><strong>Generace:</strong> Comet Lake</li>
+  <li><strong>Socket:</strong> LGA1200</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 2</li>
+  <li><strong>Base Clock:</strong> 3.6 GHz</li>
+  <li><strong>TDP:</strong> 58 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G5925</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1200</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.6 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>58 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Comet Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Celeron G5925">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R2129</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>650</PRICE>
+    <PRODUCT_NUMBER>CELERON-G5925</PRODUCT_NUMBER>
+    <PART_NUMBER>CELERON-G5925</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-I3-2100-A</CODE>
+    <NAME>Intel Core i3-2100</NAME>
+    <SEO_TITLE>Intel Core i3-2100 LGA1155 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i3-2100, 2C/4T 3.1GHz LGA1155, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i3-2100, 2C/4T, 3.1 GHz, socket LGA1155, TDP 65W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i3-2100 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i3-2100</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i3-2100</li>
+  <li><strong>Generace:</strong> Sandy Bridge</li>
+  <li><strong>Socket:</strong> LGA1155</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 3.1 GHz</li>
+  <li><strong>TDP:</strong> 65 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i3-2100</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1155</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.1 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>65 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Sandy Bridge</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i3-2100">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S004264</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>200</PRICE>
+    <PRODUCT_NUMBER>I3-2100</PRODUCT_NUMBER>
+    <PART_NUMBER>I3-2100</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-I3-3220-A</CODE>
+    <NAME>Intel Core i3-3220</NAME>
+    <SEO_TITLE>Intel Core i3-3220 LGA1155 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i3-3220, 2C/4T 3.3GHz LGA1155, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i3-3220, 2C/4T, 3.3 GHz, socket LGA1155, TDP 55W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i3-3220 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i3-3220</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i3-3220</li>
+  <li><strong>Generace:</strong> Ivy Bridge</li>
+  <li><strong>Socket:</strong> LGA1155</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 3.3 GHz</li>
+  <li><strong>TDP:</strong> 55 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i3-3220</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1155</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.3 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>55 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Ivy Bridge</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i3-3220">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>RPC-S004276</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>250</PRICE>
+    <PRODUCT_NUMBER>I3-3220</PRODUCT_NUMBER>
+    <PART_NUMBER>I3-3220</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>INTEL-PENTIUM-G4600-A2146</CODE>
+    <NAME>Intel Pentium G4600</NAME>
+    <SEO_TITLE>Intel Pentium G4600 LGA1151 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Pentium G4600, 2C/4T 3.6GHz LGA1151, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Pentium G4600, 2C/4T, 3.6 GHz, socket LGA1151, TDP 51W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Pentium G4600 — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Pentium G4600</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Pentium G4600</li>
+  <li><strong>Generace:</strong> Kaby Lake</li>
+  <li><strong>Socket:</strong> LGA1151</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 3.6 GHz</li>
+  <li><strong>TDP:</strong> 51 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Pentium G4600</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.6 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>51 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Kaby Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Pentium G4600">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R2146</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>600</PRICE>
+    <PRODUCT_NUMBER>PENTIUM-G4600</PRODUCT_NUMBER>
+    <PART_NUMBER>PENTIUM-G4600</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>i5-2520M-A1377</CODE>
+    <NAME>Intel Core i5-2520M</NAME>
+    <SEO_TITLE>Intel Core i5-2520M rPGA988B 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i5-2520M, 2C/4T 2.5GHz rPGA988B, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i5-2520M, 2C/4T, 2.5 GHz, socket rPGA988B, TDP 35W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i5-2520M — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i5-2520M</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i5-2520M</li>
+  <li><strong>Generace:</strong> Sandy Bridge</li>
+  <li><strong>Socket:</strong> rPGA988B</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 2.5 GHz</li>
+  <li><strong>TDP:</strong> 35 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i5-2520M</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>rPGA988B</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.5 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Sandy Bridge</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i5-2520M">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R1377</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>250</PRICE>
+    <PRODUCT_NUMBER>i5-2520M</PRODUCT_NUMBER>
+    <PART_NUMBER>i5-2520M</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>i5-3340M-A1316</CODE>
+    <NAME>Intel Core i5-3340M</NAME>
+    <SEO_TITLE>Intel Core i5-3340M rPGA988B 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i5-3340M, 2C/4T 2.7GHz rPGA988B, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i5-3340M, 2C/4T, 2.7 GHz, socket rPGA988B, TDP 35W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i5-3340M — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i5-3340M</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i5-3340M</li>
+  <li><strong>Generace:</strong> Ivy Bridge</li>
+  <li><strong>Socket:</strong> rPGA988B</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 2.7 GHz</li>
+  <li><strong>TDP:</strong> 35 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i5-3340M</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>rPGA988B</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.7 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Ivy Bridge</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i5-3340M">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1316</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>320</PRICE>
+    <PRODUCT_NUMBER>i5-3340M</PRODUCT_NUMBER>
+    <PART_NUMBER>i5-3340M</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>i7-4610M-A1315</CODE>
+    <NAME>Intel Core i7-4610M</NAME>
+    <SEO_TITLE>Intel Core i7-4610M rPGA946B 2C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i7-4610M, 2C/4T 3.0GHz rPGA946B, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i7-4610M, 2C/4T, 3.0 GHz, socket rPGA946B, TDP 37W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i7-4610M — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i7-4610M</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i7-4610M</li>
+  <li><strong>Generace:</strong> Haswell</li>
+  <li><strong>Socket:</strong> rPGA946B</li>
+  <li><strong>Jádra / Vlákna:</strong> 2 / 4</li>
+  <li><strong>Base Clock:</strong> 3.0 GHz</li>
+  <li><strong>TDP:</strong> 37 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i7-4610M</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>rPGA946B</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.0 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>37 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Haswell</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i7-4610M">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1315</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>450</PRICE>
+    <PRODUCT_NUMBER>i7-4610M</PRODUCT_NUMBER>
+    <PART_NUMBER>i7-4610M</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>i7-4800MQ-A1378</CODE>
+    <NAME>Intel Core i7-4800MQ</NAME>
+    <SEO_TITLE>Intel Core i7-4800MQ rPGA947 4C</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i7-4800MQ, 4C/8T 2.7GHz rPGA947, použitý procesor, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>Intel Core i7-4800MQ, 4C/8T, 2.7 GHz, socket rPGA947, TDP 47W. Použitý, otestovaný. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Intel Core i7-4800MQ — použitý procesor</h2>
+<p>Použitý desktop / notebook procesor <strong>Intel Core i7-4800MQ</strong>.
+Vytažen z plně funkčního počítače, otestován a připraven k dalšímu použití.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Intel</li>
+  <li><strong>Model:</strong> Intel Core i7-4800MQ</li>
+  <li><strong>Generace:</strong> Haswell</li>
+  <li><strong>Socket:</strong> rPGA947</li>
+  <li><strong>Jádra / Vlákna:</strong> 4 / 8</li>
+  <li><strong>Base Clock:</strong> 2.7 GHz</li>
+  <li><strong>TDP:</strong> 47 W</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<p><em>Dodáváme bez chladiče a krabice (jen samotný procesor).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Procesory CPU</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i7-4800MQ</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>rPGA947</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>8</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.7 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>47 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Haswell</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Intel Core i7-4800MQ">https://claudelefi.github.io/importpc-photos/illust/intel-cpu-generic.webp</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1378</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>650</PRICE>
+    <PRODUCT_NUMBER>i7-4800MQ</PRODUCT_NUMBER>
+    <PART_NUMBER>i7-4800MQ</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+</SHOP>
