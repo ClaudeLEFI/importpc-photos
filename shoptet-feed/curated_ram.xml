@@ -1,7 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Curated RAM. consolidated.db master_products WHERE type LIKE RM_% -->
-<!-- Published: 100 | Skipped: 21 -->
+<!-- Published: 103 | Skipped: 129 -->
 <SHOP>
+  <SHOPITEM>
+    <CODE>RM69F48MSB</CODE>
+    
+    <NAME>Hynix 4GB DDR3-1333 Paměť DIMM 240-pin (HMT325U6CFR8C-H9)</NAME>
+    <SEO_TITLE>Hynix HMT325U6CFR8C-H9 4GB DDR3 DIMM</SEO_TITLE>
+    <META_DESCRIPTION>Hynix HMT325U6CFR8C-H9 4GB DDR3 DIMM, použitá testovaná RAM, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>RAM DIMM Hynix HMT325U6CFR8C-H9 4GB DDR3 DIMM. Použitá, otestovaná. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Hynix HMT325U6CFR8C-H9 — 4GB DDR3 DIMM</h2>
+<p>Použitý paměťový modul <strong>Hynix HMT325U6CFR8C-H9</strong> o kapacitě
+<strong>4GB</strong>, typ <strong>DDR3</strong>, form factor
+<strong>DIMM</strong>. Modul byl vytažen z plně funkčního počítače
+a otestován.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Hynix</li>
+  <li><strong>Model (MPN):</strong> HMT325U6CFR8C-H9</li>
+  <li><strong>Kapacita:</strong> 4GB</li>
+  <li><strong>Typ:</strong> DDR3</li>
+  <li><strong>Form factor:</strong> DIMM</li>
+  
+  
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, pracovní stanice.</p>
+
+<p><em>Doporučujeme před nákupem ověřit kompatibilitu s vaší základní deskou
+(slot DIMM, podpora DDR3).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Hynix</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Operační paměti &gt; DIMM pro stolní PC</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>RAM - Typ</NAME><VALUE>DDR3</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Form factor</NAME><VALUE>DIMM</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Kapacita</NAME><VALUE>4GB</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Hynix HMT325U6CFR8C-H9 4GB DDR3">https://claudelefi.github.io/importpc-photos/illust/RAM-DIMM-desktop.jpg</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R618</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>180</PRICE>
+    <PRODUCT_NUMBER>HMT325U6CFR8C-H9</PRODUCT_NUMBER>
+    <PART_NUMBER>HMT325U6CFR8C-H9</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>RM2E4AFMSB</CODE>
+    
+    <NAME>Micron 1GB DDR2-800 240pin (MT9JSF51272PZ-1G9E2HE)</NAME>
+    <SEO_TITLE>Micron MT9JSF51272PZ-1G9E2HE 1GB DDR2 DIMM</SEO_TITLE>
+    <META_DESCRIPTION>Micron MT9JSF51272PZ-1G9E2HE 1GB DDR2 DIMM, použitá testovaná RAM, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>RAM RDIMM Micron MT9JSF51272PZ-1G9E2HE 1GB DDR2 DIMM. Použitá, otestovaná. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Micron MT9JSF51272PZ-1G9E2HE — 1GB DDR2 DIMM</h2>
+<p>Použitý paměťový modul <strong>Micron MT9JSF51272PZ-1G9E2HE</strong> o kapacitě
+<strong>1GB</strong>, typ <strong>DDR2</strong>, form factor
+<strong>DIMM</strong>. Modul byl vytažen z plně funkčního počítače
+a otestován.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Micron</li>
+  <li><strong>Model (MPN):</strong> MT9JSF51272PZ-1G9E2HE</li>
+  <li><strong>Kapacita:</strong> 1GB</li>
+  <li><strong>Typ:</strong> DDR2</li>
+  <li><strong>Form factor:</strong> DIMM</li>
+  <li><strong>ECC:</strong> ano (Error-Correcting Code)</li>
+  <li><strong>Registered (Buffered):</strong> ano</li>
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, pracovní stanice.</p>
+
+<p><em>Doporučujeme před nákupem ověřit kompatibilitu s vaší základní deskou
+(slot DIMM, podpora DDR2, ECC).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Micron</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Operační paměti &gt; DIMM pro stolní PC</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>RAM - Typ</NAME><VALUE>DDR2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Form factor</NAME><VALUE>DIMM</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Kapacita</NAME><VALUE>1GB</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Micron MT9JSF51272PZ-1G9E2HE 1GB DDR2">https://claudelefi.github.io/importpc-photos/illust/RAM-DIMM-desktop.jpg</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>8</VALUE><LOCATION>R487</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>510</PRICE>
+    <PRODUCT_NUMBER>MT9JSF51272PZ-1G9E2HE</PRODUCT_NUMBER>
+    <PART_NUMBER>MT9JSF51272PZ-1G9E2HE</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
   <SHOPITEM>
     <CODE>RM7439FMSB</CODE>
     
@@ -123,7 +261,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1437</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R1437</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -744,7 +882,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>9</VALUE><LOCATION>R128</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>11</VALUE><LOCATION>R128</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -1020,7 +1158,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R144</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R144</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -1267,7 +1405,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>4</VALUE><LOCATION>R125</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R125</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -1543,7 +1681,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R212</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R2108</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -1681,7 +1819,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R12</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>6</VALUE><LOCATION>R12</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -1693,6 +1831,75 @@ a otestován.</p>
     <PRICE>90</PRICE>
     <PRODUCT_NUMBER>M470T3354CZ3-CD5</PRODUCT_NUMBER>
     <PART_NUMBER>M470T3354CZ3-CD5</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>KINGSTON-KY9530-HYC-A2075</CODE>
+    
+    <NAME>Kingston 8GB DDR3 DIMM Paměťový Modul (KY9530-HYC)</NAME>
+    <SEO_TITLE>Kingston KY9530-HYC 8GB DDR3 DIMM</SEO_TITLE>
+    <META_DESCRIPTION>Kingston KY9530-HYC 8GB DDR3 DIMM, použitá testovaná RAM, záruka 24 měsíců.</META_DESCRIPTION>
+    <SHORT_DESCRIPTION><p>RAM DIMM Kingston KY9530-HYC 8GB DDR3 DIMM. Použitá, otestovaná. Záruka 24 měsíců.</p></SHORT_DESCRIPTION>
+    <DESCRIPTION><h2>Kingston KY9530-HYC — 8GB DDR3 DIMM</h2>
+<p>Použitý paměťový modul <strong>Kingston KY9530-HYC</strong> o kapacitě
+<strong>8GB</strong>, typ <strong>DDR3</strong>, form factor
+<strong>DIMM</strong>. Modul byl vytažen z plně funkčního počítače
+a otestován.</p>
+
+<h3>Specifikace</h3>
+<ul>
+  <li><strong>Výrobce:</strong> Kingston</li>
+  <li><strong>Model (MPN):</strong> KY9530-HYC</li>
+  <li><strong>Kapacita:</strong> 8GB</li>
+  <li><strong>Typ:</strong> DDR3</li>
+  <li><strong>Form factor:</strong> DIMM</li>
+  
+  
+  <li><strong>Stav:</strong> použitý, plně funkční, otestovaný</li>
+</ul>
+
+<h3>Vhodné pro</h3>
+<p>stolní PC, pracovní stanice.</p>
+
+<p><em>Doporučujeme před nákupem ověřit kompatibilitu s vaší základní deskou
+(slot DIMM, podpora DDR3).</em></p>
+
+<div style="margin-top:14px;padding:10px 12px;background:#f7f7f7;border-left:3px solid #888;font-size:13px;color:#333">
+  <strong>Záruka 24 měsíců</strong> v souladu s občanským zákoníkem.
+  Zboží je <strong>použité, otestované</strong> a vytaženo z plně funkčního počítače.
+  Prodáno v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím) —
+  finální cena, bez nároku na odpočet DPH na vstupu.
+</div></DESCRIPTION>
+    <MANUFACTURER>Kingston</MANUFACTURER>
+    <CATEGORIES>
+      <CATEGORY><NAME>Komponenty pro notebooky a počítače &gt; Operační paměti &gt; DIMM pro stolní PC</NAME></CATEGORY>
+    </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>RAM - Typ</NAME><VALUE>DDR3</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Form factor</NAME><VALUE>DIMM</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>RAM - Kapacita</NAME><VALUE>8GB</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <IMAGES><IMAGE description="Kingston KY9530-HYC 8GB DDR3">https://claudelefi.github.io/importpc-photos/illust/RAM-DIMM-desktop.jpg</IMAGE></IMAGES>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R2075</LOCATION></WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>0</PRICE>
+    <PRODUCT_NUMBER>KY9530-HYC</PRODUCT_NUMBER>
+    <PART_NUMBER>KY9530-HYC</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
@@ -2026,7 +2233,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R114</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>13</VALUE><LOCATION>R114</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -2716,7 +2923,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R548</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R1519</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -2785,7 +2992,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R521</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>R1521</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -2854,7 +3061,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R486</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R1503</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3148,7 +3355,7 @@ a otestován.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>HYNIX-HMT325R7CFR8A-H9-A1435</CODE>
+    <CODE>RM17D58MSB</CODE>
     
     <NAME>Hynix 32GB DDR3-1866 ECC Registrovaný DIMM (HMT325R7CFR8A-H9)</NAME>
     <SEO_TITLE>Hynix HMT325R7CFR8A-H9 32GB DDR3 DIMM</SEO_TITLE>
@@ -3199,7 +3406,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1435</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R546</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3208,7 +3415,7 @@ a otestován.</p>
     <VISIBLE>0</VISIBLE>
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
-    <PRICE>200</PRICE>
+    <PRICE>210</PRICE>
     <PRODUCT_NUMBER>HMT325R7CFR8A-H9</PRODUCT_NUMBER>
     <PART_NUMBER>HMT325R7CFR8A-H9</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
@@ -3337,7 +3544,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R534</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>4</VALUE><LOCATION>R1459</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3475,7 +3682,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R122</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>4</VALUE><LOCATION>R122</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3682,7 +3889,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>4</VALUE><LOCATION>R107</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R107</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3751,7 +3958,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R214</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R2107</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -3958,7 +4165,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R71</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R1742</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -4096,7 +4303,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>32</VALUE><LOCATION>R105</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>79</VALUE><LOCATION>R105</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -4303,7 +4510,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>5</VALUE><LOCATION>R123</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>9</VALUE><LOCATION>R123</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -4441,7 +4648,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>6</VALUE><LOCATION>R1807</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>24</VALUE><LOCATION>R1561</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -4510,7 +4717,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>12</VALUE><LOCATION>R17</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>24</VALUE><LOCATION>R17</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -4579,7 +4786,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1436</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>6</VALUE><LOCATION>R1436</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -5102,7 +5309,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R182</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R182</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -5171,7 +5378,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R507</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>R2452</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -5654,7 +5861,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>6</VALUE><LOCATION>R1806</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>13</VALUE><LOCATION>R1608</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -5792,7 +5999,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1433</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R1433</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -5999,7 +6206,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R537</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>R1449</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -6086,7 +6293,7 @@ a otestován.</p>
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>BUNDLE-4x-M393B5673FH0-CH9-A1749</CODE>
+    <CODE>SAMSUNG-M393B5673FH0-CH9-A1440</CODE>
     
     <NAME>Samsung 16GB DDR3-1600 ECC Registered DIMM (M393B5673FH0-CH9)</NAME>
     <SEO_TITLE>Samsung M393B5673FH0-CH9 16GB DDR3 DIMM</SEO_TITLE>
@@ -6137,7 +6344,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>1</VALUE><LOCATION>R1749</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>9</VALUE><LOCATION>R1440</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -6146,7 +6353,7 @@ a otestován.</p>
     <VISIBLE>0</VISIBLE>
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
-    <PRICE>730</PRICE>
+    <PRICE>200</PRICE>
     <PRODUCT_NUMBER>M393B5673FH0-CH9</PRODUCT_NUMBER>
     <PART_NUMBER>M393B5673FH0-CH9</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
@@ -6344,7 +6551,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>2</VALUE><LOCATION>R149</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>R149</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
@@ -6758,7 +6965,7 @@ a otestován.</p>
     <ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>Použité, otestované. Záruka 24 měsíců.</DESCRIPTION></ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
-        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>3</VALUE><LOCATION>R100</LOCATION></WAREHOUSE>
+        <WAREHOUSE><NAME>Hlavní sklad</NAME><VALUE>11</VALUE><LOCATION>R100</LOCATION></WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
