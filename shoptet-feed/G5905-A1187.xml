@@ -4,8 +4,8 @@
   Reálná data: 3 ks skladem (A1187, A1202, A1210), intake 2026-05-18.
   EAN 5032037198882 (boxed BX80701G5905, ověřeno z eBay gtin).
   Specs dle oficiálních Intel ARK. Cena 469 Kč (pod nejlevnější novou v ČR: box+chladič 579 Kč).
-  §90 ZDPH (margin scheme): VAT=0, cena finální. Foto full-res GitHub Pages.
-  Validní proti products-complete-v10.rng (order-sensitive — drží pořadí dle vzoru SS51241MSB).
+  Prodáváno S DPH 21 % (NE §90 margin — pokyn 2026-05-29). Kategorie id=913 (Procesory).
+  Foto full-res GitHub Pages. Validní proti products-complete-v10.rng (order-sensitive, vzor SS51241MSB).
 -->
 <SHOP>
   <SHOPITEM>
@@ -56,8 +56,8 @@
     <CODE>G5905-A1187</CODE>
     <EAN>5032037198882</EAN>
     <CATEGORIES>
-      <CATEGORY>Komponenty</CATEGORY>
-      <DEFAULT_CATEGORY>Komponenty</DEFAULT_CATEGORY>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE description="Intel Celeron G5905 LGA1200 procesor SRK27">https://claudelefi.github.io/importpc-photos/listings/A1187-G5905.jpg</IMAGE>
