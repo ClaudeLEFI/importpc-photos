@@ -3,8 +3,9 @@
   Shoptet import XML — Intel Celeron G5905 (master CODE G5905-A1187)
   Reálná data: 3 ks skladem (A1187, A1202, A1210), intake 2026-05-18.
   EAN 5032037198882 (boxed BX80701G5905, ověřeno z eBay gtin).
-  Specs dle oficiálních Intel ARK. Cena 469 Kč (pod nejlevnější novou v ČR: box+chladič 579 Kč).
-  Prodáváno S DPH 21 % (NE §90 margin — pokyn 2026-05-29). Kategorie id=913 (Procesory).
+  Specs dle oficiálních Intel ARK. Finální cena 469 Kč s DPH (pod nejlevnější novou v ČR: box+chladič 579 Kč).
+  Prodáváno S DPH 21 % (NE §90 margin — pokyn 2026-05-29). Shoptet importpc.cz: PRICE je ex-DPH → 388 × 1,21 = 469 finál.
+  Kategorie id=913 (Procesory).
   Foto full-res GitHub Pages. Validní proti products-complete-v10.rng (order-sensitive, vzor SS51241MSB).
 -->
 <SHOP>
@@ -123,7 +124,8 @@
     </LOGISTIC>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21</VAT>
-    <PRICE>469</PRICE>
+    <PRICE>388</PRICE>
+    <!-- Shoptet importpc.cz chápe PRICE jako BEZ DPH → 388 × 1,21 = 469,48 → s DECIMAL_COUNT=0 finální zobrazení 469 Kč. -->
     <PRODUCT_NUMBER>G5905</PRODUCT_NUMBER>
     <PART_NUMBER>BX80701G5905</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
