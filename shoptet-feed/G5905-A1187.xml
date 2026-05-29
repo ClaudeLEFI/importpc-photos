@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Shoptet import XML — Intel Celeron G5905 (master CODE G5905-A1187)
+  Reálná data: 3 ks skladem (A1187, A1202, A1210), intake 2026-05-18.
+  EAN 5032037198882 (boxed BX80701G5905, ověřeno z eBay gtin).
+  Specs dle oficiálních Intel ARK. Cena 469 Kč (pod nejlevnější novou v ČR: box+chladič 579 Kč).
+  §90 ZDPH (margin scheme): VAT=0, cena finální. Foto full-res GitHub Pages.
+  Validní proti products-complete-v10.rng (order-sensitive — drží pořadí dle vzoru SS51241MSB).
+-->
+<SHOP>
+  <SHOPITEM>
+    <NAME>Intel Celeron G5905 procesor LGA1200 2C/2T 3,5 GHz</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Procesor Intel Celeron G5905, 2 jádra / 2 vlákna, 3,5 GHz, socket LGA 1200, 10. generace (Comet Lake), integrovaná grafika UHD 610. Zánovní, otestovaný, vytažený z plně funkčního počítače. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<h2>Intel Celeron G5905 — úsporný dvoujádrový procesor (LGA 1200)</h2>
+<p>Spolehlivý procesor <strong>Intel Celeron G5905</strong> 10. generace (Comet Lake) s integrovanou grafikou. Úsporné a stabilní řešení do kanceláře, domácí sestavy a pro lehký multimediální provoz. <strong>Zánovní</strong> — otestovaný, vytažený z plně funkčního počítače.</p>
+
+<h3>Technické parametry (dle oficiálních specifikací Intel)</h3>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Výrobce</strong></td><td>Intel</td></tr>
+  <tr><td><strong>Model</strong></td><td>Intel Celeron G5905</td></tr>
+  <tr><td><strong>Patice (socket)</strong></td><td>FCLGA1200</td></tr>
+  <tr><td><strong>Jádra / vlákna</strong></td><td>2 / 2 (bez Hyper-Threadingu)</td></tr>
+  <tr><td><strong>Základní frekvence</strong></td><td>3,50 GHz (bez Turbo Boost)</td></tr>
+  <tr><td><strong>Cache</strong></td><td>4 MB Intel Smart Cache</td></tr>
+  <tr><td><strong>TDP</strong></td><td>58 W</td></tr>
+  <tr><td><strong>Litografie</strong></td><td>14 nm</td></tr>
+  <tr><td><strong>Integrovaná grafika</strong></td><td>Intel UHD Graphics 610 (350 MHz, max 1,05 GHz)</td></tr>
+  <tr><td><strong>Podpora pamětí</strong></td><td>DDR4-2666, max 128 GB, 2 kanály</td></tr>
+  <tr><td><strong>PCI Express</strong></td><td>3.0</td></tr>
+  <tr><td><strong>Generace</strong></td><td>Comet Lake (10. generace), uvedeno Q3/2020</td></tr>
+  <tr><td><strong>Stav</strong></td><td>zánovní, plně funkční, otestovaný</td></tr>
+</table>
+
+<h3>Pro koho je vhodný</h3>
+<p>Kancelářské PC, domácí počítač, internet, e-maily, přehrávání videa, lehký multimediální provoz. Ideální jako levný základ sestavy nebo náhrada vadného CPU. Kompatibilní se základními deskami s paticí <strong>LGA 1200</strong> (čipsety 400/500 — H410, B460, H470, Z490). Před nákupem doporučujeme ověřit podporu procesoru v BIOS desky.</p>
+
+<h3>Stav, záruka a balení</h3>
+<ul>
+  <li>Zánovní — profesionálně otestováno (kontrola pinů, boot test, CPU-Z)</li>
+  <li><strong>Záruka 24 měsíců</strong> s možností vrácení</li>
+  <li>Vytaženo z plně funkčního počítače</li>
+  <li>Dodáváme pouze procesor (bez chladiče a krabice)</li>
+</ul>
+
+<p>Doprava Zásilkovna / Česká pošta / PPL.</p>
+
+<p><small>Použité zboží — prodáváme v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím). Daň není rozepsána na faktuře, cena je finální.</small></p>
+
+<p><small>Interní kód: G5905-A1187; A1202; A1210</small></p>
+]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>G5905-A1187</CODE>
+    <EAN>5032037198882</EAN>
+    <CATEGORIES>
+      <CATEGORY>Komponenty pro notebooky a počítače &gt; Procesory CPU</CATEGORY>
+      <DEFAULT_CATEGORY>Komponenty pro notebooky a počítače &gt; Procesory CPU</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Intel Celeron G5905 LGA1200 procesor SRK27">https://claudelefi.github.io/importpc-photos/listings/A1187-G5905.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Model</NAME><VALUE>Celeron G5905</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Patice</NAME><VALUE>LGA 1200</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Jádra / vlákna</NAME><VALUE>2 / 2</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3,5 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>4 MB</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>TDP</NAME><VALUE>58 W</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Grafika</NAME><VALUE>Intel UHD Graphics 610</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>Comet Lake (10. gen)</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>zánovní, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G5905</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1200</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.5 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>58 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Comet Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Zánovní, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>Intel Celeron G5905 LGA1200</XML_FEED_NAME>
+    <SEO_TITLE>Intel Celeron G5905 LGA1200 procesor | importpc.cz</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G5905, 2C/2T 3,5 GHz, LGA1200, UHD 610, testovaný procesor, záruka 24 měsíců. Skladem, rychlé odeslání.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE G5905-A1187, 3 ks (A1187, A1202, A1210), intake 2026-05-18, eBay 267673280084 + Aukro 7121817524 ACTIVE. §90 ZDPH margin scheme — v adminu nastavit daňovou skupinu margin. Heureka/Zboží kategorii doplnit ručně (CPU id neznámé).</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Zánovní, otestované (kontrola pinů, boot test, CPU-Z). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>3</VALUE>
+          <LOCATION>R1187</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>0</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>469</PRICE>
+    <PRODUCT_NUMBER>G5905</PRODUCT_NUMBER>
+    <PART_NUMBER>BX80701G5905</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+</SHOP>
