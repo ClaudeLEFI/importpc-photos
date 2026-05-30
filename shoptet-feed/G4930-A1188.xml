@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Shoptet import XML — Intel Celeron G4930 (master CODE G4930-A1188)
+  Reálná data: 16 ks skladem (A1188; A1192; A1193; A1194; A1204; A2130; A2131; A2140; A2145; A2151; A2861; A2865; A2866; A2867; A2868; A2869), intake 2026-05-30.
+  EAN 0735858411516 (boxed BX80684G4930, ověřeno).
+  Specs dle oficiálních Intel ARK. Finální cena 388 Kč s DPH (321 ex-DPH × 1,21 = 388,41 → zobrazení 388 Kč).
+  Prodáváno S DPH 21 % (NE §90 margin). Shoptet importpc.cz: PRICE je ex-DPH → 321 × 1,21 = 388,41 finál.
+  Kategorie id=913 (Procesory).
+  Foto full-res GitHub Pages. Validní proti products-complete-v10.rng (order-sensitive, vzor SS51241MSB).
+-->
+<SHOP>
+  <SHOPITEM>
+    <NAME>Intel Celeron G4930 procesor LGA1151 2C/2T 3,2 GHz</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Procesor Intel Celeron G4930. 2 jádra / 2 vlákna, základní frekvence 3,20 GHz, 2 MB Intel Smart Cache, TDP 54 W. Socket LGA 1151, 14 nm, 8. generace (Coffee Lake). Integrovaná grafika Intel UHD Graphics 610. Podpora pamětí DDR4-2400 (max 64 GB), PCI Express 3.0.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<h2>Intel Celeron G4930 — úsporný dvoujádrový procesor (LGA 1151)</h2>
+<p>Spolehlivý procesor <strong>Intel Celeron G4930</strong> 8. generace (Coffee Lake) s integrovanou grafikou. Úsporné a stabilní řešení do kanceláře, domácí sestavy a pro lehký multimediální provoz. <strong>Zánovní</strong> — otestovaný, vytažený z plně funkčního počítače.</p>
+
+<h3>Technické parametry (dle oficiálních specifikací Intel)</h3>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Výrobce</strong></td><td>Intel</td></tr>
+  <tr><td><strong>Model</strong></td><td>Intel Celeron G4930</td></tr>
+  <tr><td><strong>Patice (socket)</strong></td><td>FCLGA1151</td></tr>
+  <tr><td><strong>Jádra / vlákna</strong></td><td>2 / 2 (bez Hyper-Threadingu)</td></tr>
+  <tr><td><strong>Základní frekvence</strong></td><td>3,20 GHz (bez Turbo Boost)</td></tr>
+  <tr><td><strong>Cache</strong></td><td>2 MB Intel Smart Cache</td></tr>
+  <tr><td><strong>TDP</strong></td><td>54 W</td></tr>
+  <tr><td><strong>Litografie</strong></td><td>14 nm</td></tr>
+  <tr><td><strong>Integrovaná grafika</strong></td><td>Intel UHD Graphics 610 (350 MHz, max 1,05 GHz)</td></tr>
+  <tr><td><strong>Podpora pamětí</strong></td><td>DDR4-2400, max 64 GB, 2 kanály</td></tr>
+  <tr><td><strong>PCI Express</strong></td><td>3.0</td></tr>
+  <tr><td><strong>Generace</strong></td><td>Coffee Lake (8. generace), uvedeno Q2/2019</td></tr>
+  <tr><td><strong>Stav</strong></td><td>zánovní, plně funkční, otestovaný</td></tr>
+</table>
+
+<h3>Pro koho je vhodný</h3>
+<p>Kancelářské PC, domácí počítač, internet, e-maily, přehrávání videa, lehký multimediální provoz. Ideální jako levný základ sestavy nebo náhrada vadného CPU. Kompatibilní se základními deskami s paticí <strong>LGA 1151</strong> (čipsety 300-series — H310, B360, H370, Z390). Před nákupem doporučujeme ověřit podporu procesoru v BIOS desky.</p>
+
+<h3>Stav, záruka a balení</h3>
+<ul>
+  <li>Zánovní — profesionálně otestováno (kontrola pinů, boot test, CPU-Z)</li>
+  <li><strong>Záruka 24 měsíců</strong> s možností vrácení</li>
+  <li>Vytaženo z plně funkčního počítače</li>
+  <li>Dodáváme pouze procesor (bez chladiče a krabice)</li>
+</ul>
+
+<p>Doprava Zásilkovna / PPL.</p>
+
+<p><small>Interní kód: G4930-A1188; A1188; A1192; A1193; A1194; A1204; A2130; A2131; A2140; A2145; A2151; A2861; A2865; A2866; A2867; A2868; A2869</small></p>
+]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>G4930-A1188</CODE>
+    <EAN>0735858411516</EAN>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Intel Celeron G4930 LGA1151 procesor BX80684G4930">https://claudelefi.github.io/importpc-photos/listings/A1188-G4930.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Model</NAME><VALUE>Celeron G4930</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Patice</NAME><VALUE>LGA 1151</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Jádra / vlákna</NAME><VALUE>2 / 2</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3,2 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>2 MB</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>TDP</NAME><VALUE>54 W</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Grafika</NAME><VALUE>Intel UHD Graphics 610</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>Coffee Lake (8. gen)</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>zánovní, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G4930</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.2 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>54 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Coffee Lake</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Zánovní, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>Intel Celeron G4930 LGA1151</XML_FEED_NAME>
+    <SEO_TITLE>Intel Celeron G4930 LGA1151 procesor | importpc.cz</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G4930, 2C/2T 3,2 GHz, LGA1151, UHD 610, testovaný procesor, záruka 24 měsíců. Skladem, rychlé odeslání.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE G4930-A1188, 16 ks (A1188; A1192; A1193; A1194; A1204; A2130; A2131; A2140; A2145; A2151; A2861; A2865; A2866; A2867; A2868; A2869), intake 2026-05-30. Tento kus prodáván S DPH 21 % (NE §90 margin). Kategorie: Komponenty. Heureka/Zboží kategorii doplnit ručně.</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Zánovní, otestované (kontrola pinů, boot test, CPU-Z). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>16</VALUE>
+          <LOCATION>R1188</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21</VAT>
+    <PRICE>321</PRICE>
+    <!-- Shoptet importpc.cz chápe PRICE jako BEZ DPH → 321 × 1,21 = 388,41 → s DECIMAL_COUNT=0 finální zobrazení 388 Kč. -->
+    <PRODUCT_NUMBER>G4930</PRODUCT_NUMBER>
+    <PART_NUMBER>BX80684G4930</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+</SHOP>
