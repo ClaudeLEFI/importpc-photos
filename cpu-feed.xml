@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- LEFI CPU Shoptet feed — 18 vybraných produktů (Vystav všude) -->
+<!-- LEFI CPU Shoptet feed — 19 vybraných produktů (Vystav všude) -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Celeron G5905</NAME>
@@ -1307,6 +1307,79 @@
     <PRICE>292</PRICE>
     <PRODUCT_NUMBER>G2020</PRODUCT_NUMBER>
     <PART_NUMBER>G2020</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Intel Xeon E5-1620 v3</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Intel Xeon E5-1620 v3 — 4/8 jader, 3.50 GHz, socket FCLGA2011-3, TDP 140 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Intel Xeon E5-1620 v3 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Xeon E5-1620 v3</li><li>Patice: FCLGA2011-3</li><li>Jádra / vlákna: 4 / 8</li><li>Frekvence: 3.50 GHz</li><li>TDP: 140 W</li><li>Cache: 10 MB Smart Cache</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>INTEL-INTEL-E5-1620V3-A2882</CODE>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Intel Xeon E5-1620 v3">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A3148_edited.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>Intel Xeon E5-1620 v3</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>FCLGA2011-3</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3.50 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Xeon E5-1620 v3</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>FCLGA2011-3</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.50 GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>Intel Xeon E5-1620 v3</XML_FEED_NAME>
+    <SEO_TITLE>Intel Xeon E5-1620 v3 FCLGA2011-3</SEO_TITLE>
+    <META_DESCRIPTION>Intel Xeon E5-1620 v3, FCLGA2011-3, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE INTEL-INTEL-E5-1620V3-A2882, 1 ks (A2882), z microsite Vystav všude</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION>R2882</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>379</PRICE>
+    <PRODUCT_NUMBER>E5-1620V3</PRODUCT_NUMBER>
+    <PART_NUMBER>E5-1620V3</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
