@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- LEFI CPU Shoptet feed — 49 vybraných produktů (Vystav všude) -->
+<!-- LEFI CPU Shoptet feed — 50 vybraných produktů (Vystav všude) -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Celeron G5905</NAME>
@@ -3288,8 +3288,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Intel Core 2 Duo T9400</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>Intel Core 2 Duo T9400 —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>Intel Core 2 Duo T9400 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Core 2 Duo T9400</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>Intel Core 2 Duo T9400 — 2/2 jader, 2.53 GHz, socket PGA478, BGA479, TDP 35 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Intel Core 2 Duo T9400 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Core 2 Duo T9400</li><li>Patice: PGA478, BGA479</li><li>Jádra / vlákna: 2 / 2</li><li>Frekvence: 2.53 GHz</li><li>TDP: 35 W</li><li>Cache: 6 MB L2</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
     <MANUFACTURER>Intel</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -3305,10 +3305,10 @@
       <IMAGE description="Intel Core 2 Duo T9400">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A3073_edited.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>Intel Core 2 Duo T9400</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>Intel Core 2 Duo T9400</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>PGA478, BGA479</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>2.53 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core 2 Duo T9400</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core 2 Duo T9400</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>PGA478, BGA479</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.53 GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
@@ -3319,8 +3319,8 @@
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>Intel Core 2 Duo T9400</XML_FEED_NAME>
-    <SEO_TITLE>Intel Core 2 Duo T9400 </SEO_TITLE>
-    <META_DESCRIPTION>Intel Core 2 Duo T9400, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <SEO_TITLE>Intel Core 2 Duo T9400 PGA478, BGA479</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core 2 Duo T9400, PGA478, BGA479, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
@@ -3398,7 +3398,7 @@
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
     <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE INTEL-SR2HV-A3014, 17 ks (A1412, A2124, A2132, A2139, A2148, A1416, A1422, A1423, A3014, A3031, A3066, A3067, A3068, A3069, A3072, A3075, A3074), z microsite Vystav všude</INTERNAL_NOTE>
+    <INTERNAL_NOTE>master CODE INTEL-SR2HV-A3014, 18 ks (A1412, A2124, A2132, A2139, A2148, A1416, A1422, A1423, A3014, A3031, A3066, A3067, A3068, A3069, A3072, A3075, A3074, A3077), z microsite Vystav všude</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
       <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
@@ -3407,7 +3407,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Hlavní sklad</NAME>
-          <VALUE>17</VALUE>
+          <VALUE>18</VALUE>
           <LOCATION>R1412</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
@@ -3507,8 +3507,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <NAME>AMD Athlon 64 X2 TK-55</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 64 X2 TK-55 —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>AMD Athlon 64 X2 TK-55 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 64 X2 TK-55</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 64 X2 TK-55 — 2/2 jader, 1.8 GHz, socket S1, TDP 31 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>AMD Athlon 64 X2 TK-55 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 64 X2 TK-55</li><li>Patice: S1</li><li>Jádra / vlákna: 2 / 2</li><li>Frekvence: 1.8 GHz</li><li>TDP: 31 W</li><li>Cache: 512 KB</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
     <MANUFACTURER>AMD</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -3524,10 +3524,10 @@
       <IMAGE description="AMD Athlon 64 X2 TK-55">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A1419_edited.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>S1</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>1.8 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>S1</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>1.8 GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
@@ -3538,8 +3538,8 @@
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>AMD Athlon 64 X2 TK-55</XML_FEED_NAME>
-    <SEO_TITLE>AMD Athlon 64 X2 TK-55 </SEO_TITLE>
-    <META_DESCRIPTION>AMD Athlon 64 X2 TK-55, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <SEO_TITLE>AMD Athlon 64 X2 TK-55 S1</SEO_TITLE>
+    <META_DESCRIPTION>AMD Athlon 64 X2 TK-55, S1, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
@@ -3577,5 +3577,55 @@
     <DECIMAL_COUNT>0</DECIMAL_COUNT>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — 2GB DDR3-1600 DIMM (desktop). Použitá, otestovaná operační paměť vytažená z plně funkčního počítače. Záruka 12 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — použitá operační paměť</h2><p>Použitá, otestovaná, vytažená z plně funkčního počítače. Záruka 12 měsíců s možností vrácení. Cena je konečná (bazarový režim §90 ZDPH).</p><h3>Specifikace</h3><ul><li>Výrobce: Adata</li><li>Model / MPN: AX3U1600GC2G9-2G</li><li>Kapacita: 2GB</li><li>Typ: DDR3-1600</li><li>Provedení: DIMM (desktop)</li></ul><p>Doprava Zásilkovna / PPL · vystavíme fakturu.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Adata</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>12 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>RMBF0D7MSB</CODE>
+    <CATEGORIES>
+      <CATEGORY id="958">Komponenty pro notebooky a počítače &gt; Paměti RAM do notebooku a PC</CATEGORY>
+      <DEFAULT_CATEGORY id="958" google-id="288">Komponenty pro notebooky a počítače &gt; Paměti RAM do notebooku a PC</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/RMBF0D7MSB.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Adata</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AX3U1600GC2G9-2G</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>2GB</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Typ</NAME><VALUE>DDR3-1600</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Provedení</NAME><VALUE>DIMM (desktop)</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>12 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>RAM - Typ</NAME><VALUE>DDR3-1600</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>RAM - Kapacita</NAME><VALUE>2GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>RAM - Provedení</NAME><VALUE>DIMM (desktop)</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)</XML_FEED_NAME>
+    <SEO_TITLE>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G</SEO_TITLE>
+    <META_DESCRIPTION>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G), použitá RAM, záruka 12 měsíců, skladem.</META_DESCRIPTION>
+    <INTERNAL_NOTE>master CODE RMBF0D7MSB, 2 ks (A496, A551), z microsite Vystav všude (RAM)</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované. Vytaženo z plně funkčního PC. Záruka 12 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>2</VALUE>
+          <LOCATION>R496</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC><WEIGHT>0.04</WEIGHT></LOGISTIC>
+    <PRICE>153</PRICE>
+    <PRICE_VAT>153</PRICE_VAT>
+    <VAT>0</VAT>
   </SHOPITEM>
 </SHOP>
