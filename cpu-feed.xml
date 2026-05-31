@@ -3580,11 +3580,11 @@
   </SHOPITEM>
   <SHOPITEM>
     <NAME>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — 2GB DDR3-1600 DIMM (desktop). Použitá, otestovaná operační paměť vytažená z plně funkčního počítače. Záruka 12 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — použitá operační paměť</h2><p>Použitá, otestovaná, vytažená z plně funkčního počítače. Záruka 12 měsíců s možností vrácení. Cena je konečná (bazarový režim §90 ZDPH).</p><h3>Specifikace</h3><ul><li>Výrobce: Adata</li><li>Model / MPN: AX3U1600GC2G9-2G</li><li>Kapacita: 2GB</li><li>Typ: DDR3-1600</li><li>Provedení: DIMM (desktop)</li></ul><p>Doprava Zásilkovna / PPL · vystavíme fakturu.</p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — 2GB DDR3-1600 DIMM (desktop). Použitá, otestovaná operační paměť vytažená z plně funkčního počítače. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G) — použitá operační paměť</h2><p>Použitá, otestovaná, vytažená z plně funkčního počítače. Záruka 24 měsíců s možností vrácení. Cena je konečná (bazarový režim §90 ZDPH).</p><h3>Specifikace</h3><ul><li>Výrobce: Adata</li><li>Model / MPN: AX3U1600GC2G9-2G</li><li>Kapacita: 2GB</li><li>Typ: DDR3-1600</li><li>Provedení: DIMM (desktop)</li></ul><p>Doprava Zásilkovna / PPL · vystavíme fakturu.</p>]]></DESCRIPTION>
     <MANUFACTURER>Adata</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
-    <WARRANTY>12 měsíců</WARRANTY>
+    <WARRANTY>24 měsíců</WARRANTY>
     <ADULT>0</ADULT>
     <ITEM_TYPE>bazaar</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -3597,7 +3597,7 @@
       <IMAGE description="ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/RMBF0D7MSB.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Adata</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AX3U1600GC2G9-2G</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>2GB</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Typ</NAME><VALUE>DDR3-1600</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Provedení</NAME><VALUE>DIMM (desktop)</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>12 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Adata</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AX3U1600GC2G9-2G</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>2GB</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Typ</NAME><VALUE>DDR3-1600</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Provedení</NAME><VALUE>DIMM (desktop)</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER><NAME>RAM - Typ</NAME><VALUE>DDR3-1600</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>RAM - Kapacita</NAME><VALUE>2GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>RAM - Provedení</NAME><VALUE>DIMM (desktop)</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
@@ -3606,11 +3606,11 @@
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G)</XML_FEED_NAME>
     <SEO_TITLE>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G</SEO_TITLE>
-    <META_DESCRIPTION>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G), použitá RAM, záruka 12 měsíců, skladem.</META_DESCRIPTION>
+    <META_DESCRIPTION>ADATA 2GB DDR3-1600 1Rx8 Desktop RAM UDIMM (AX3U1600GC2G9-2G), použitá RAM, záruka 24 měsíců, skladem.</META_DESCRIPTION>
     <INTERNAL_NOTE>master CODE RMBF0D7MSB, 2 ks (A496, A551), z microsite Vystav všude (RAM)</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
-      <DESCRIPTION>Použité, otestované. Vytaženo z plně funkčního PC. Záruka 12 měsíců s vrácením.</DESCRIPTION>
+      <DESCRIPTION>Použité, otestované. Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
     </ITEM_CONDITION>
     <STOCK>
       <WAREHOUSES>
