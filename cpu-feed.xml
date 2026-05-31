@@ -455,7 +455,7 @@
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="AMD Athlon 300GE">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/illust/intel-cpu-generic.webp</IMAGE>
+      <IMAGE description="AMD Athlon 300GE">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/AMDATHLON300GE.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 300GE</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
