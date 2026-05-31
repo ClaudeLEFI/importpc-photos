@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- LEFI CPU Shoptet feed — 8 vybraných produktů (Vystav všude) -->
+<!-- LEFI CPU Shoptet feed — 9 vybraných produktů (Vystav všude) -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Celeron G5905</NAME>
@@ -441,8 +441,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <NAME>AMD Athlon 300GE</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 300GE —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>AMD Athlon 300GE — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 300GE</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 300GE — 2/4 jader, 3.4GHz GHz, socket AM4, TDP 35W W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>AMD Athlon 300GE — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 300GE</li><li>Patice: AM4</li><li>Jádra / vlákna: 2 / 4</li><li>Frekvence: 3.4GHz GHz</li><li>TDP: 35W W</li><li>Cache: L1: 192KB | L2: 1MB | L3: 4MB</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
     <MANUFACTURER>AMD</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -458,10 +458,10 @@
       <IMAGE description="AMD Athlon 300GE">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/AMDATHLON300GE.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 300GE</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 300GE</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>AM4</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3.4GHz GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 300GE</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 300GE</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>AM4</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.4GHz GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
@@ -472,8 +472,8 @@
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>AMD Athlon 300GE</XML_FEED_NAME>
-    <SEO_TITLE>AMD Athlon 300GE </SEO_TITLE>
-    <META_DESCRIPTION>AMD Athlon 300GE, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <SEO_TITLE>AMD Athlon 300GE AM4</SEO_TITLE>
+    <META_DESCRIPTION>AMD Athlon 300GE, AM4, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
@@ -502,8 +502,81 @@
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
     <PRICE>765</PRICE>
-    <PRODUCT_NUMBER>300GE</PRODUCT_NUMBER>
-    <PART_NUMBER>300GE</PART_NUMBER>
+    <PRODUCT_NUMBER>ATHLON 300GE</PRODUCT_NUMBER>
+    <PART_NUMBER>ATHLON 300GE</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Intel Celeron G1840T</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Intel Celeron G1840T — 2/2 jader, 2.50 GHz, socket FCLGA1150, TDP 35 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>Intel Celeron G1840T — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Celeron G1840T</li><li>Patice: FCLGA1150</li><li>Jádra / vlákna: 2 / 2</li><li>Frekvence: 2.50 GHz</li><li>TDP: 35 W</li><li>Cache: 2 MB</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>G1840T-A1200</CODE>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Intel Celeron G1840T">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A3022_edited.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>Intel Celeron G1840T</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>FCLGA1150</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>2.50 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Celeron G1840T</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>FCLGA1150</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.50 GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>Intel Celeron G1840T</XML_FEED_NAME>
+    <SEO_TITLE>Intel Celeron G1840T FCLGA1150</SEO_TITLE>
+    <META_DESCRIPTION>Intel Celeron G1840T, FCLGA1150, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE G1840T-A1200, 6 ks (A1200, A2115, A2116, A2118, A2121, A2871), z microsite Vystav všude</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>6</VALUE>
+          <LOCATION>R1200</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>234</PRICE>
+    <PRODUCT_NUMBER>G1840T</PRODUCT_NUMBER>
+    <PART_NUMBER>G1840T</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
