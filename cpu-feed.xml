@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- LEFI CPU Shoptet feed — 50 vybraných produktů (Vystav všude) -->
+<!-- LEFI CPU Shoptet feed — 51 vybraných produktů (Vystav všude) -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Celeron G5905</NAME>
@@ -113,7 +113,7 @@
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
     <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE G4930-A1188, 18 ks (A1415, A2130, A2131, A2140, A2145, A2151, A1188, A1192, A1193, A1194, A1204, A2861, A2865, A2866, A2867, A2868, A2869, A3011), z microsite Vystav všude</INTERNAL_NOTE>
+    <INTERNAL_NOTE>master CODE G4930-A1188, 19 ks (A1415, A2130, A2131, A2140, A2145, A2151, A1188, A1192, A1193, A1194, A1204, A2861, A2865, A2866, A2867, A2868, A2869, A3011, A3093), z microsite Vystav všude</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
       <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
@@ -122,7 +122,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Hlavní sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>19</VALUE>
           <LOCATION>R1415</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
@@ -916,7 +916,7 @@
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
     <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE INTEL-COREI3-I3-3240-A2796, 7 ks (A2796, A2798, A2807, A2812, A2822, A2826, A2836), z microsite Vystav všude</INTERNAL_NOTE>
+    <INTERNAL_NOTE>master CODE INTEL-COREI3-I3-3240-A2796, 8 ks (A2796, A2798, A2807, A2812, A2822, A2826, A2836, A3120), z microsite Vystav všude</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
       <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
@@ -925,7 +925,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Hlavní sklad</NAME>
-          <VALUE>7</VALUE>
+          <VALUE>8</VALUE>
           <LOCATION>R2796</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
@@ -1427,7 +1427,7 @@
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
     <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE INTEL-INTEL-G630-A2793, 1 ks (A2793), z microsite Vystav všude</INTERNAL_NOTE>
+    <INTERNAL_NOTE>master CODE INTEL-INTEL-G630-A2793, 2 ks (A2793, A3098), z microsite Vystav všude</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
       <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
@@ -1436,7 +1436,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Hlavní sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>2</VALUE>
           <LOCATION>R2793</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
@@ -2630,79 +2630,6 @@
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>AMD Ryzen 5 1600</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>AMD Ryzen 5 1600 — 6/12 jader, 3.2GHz GHz, socket AM4, TDP 65W W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>AMD Ryzen 5 1600 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Ryzen 5 1600</li><li>Patice: AM4</li><li>Jádra / vlákna: 6 / 12</li><li>Frekvence: 3.2GHz GHz</li><li>TDP: 65W W</li><li>Cache: L1: 576KB | L2: 3MB | L3: 16MB</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
-    <MANUFACTURER>AMD</MANUFACTURER>
-    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
-    <WARRANTY>24 měsíců</WARRANTY>
-    <ADULT>0</ADULT>
-    <ITEM_TYPE>bazaar</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>AMD-AMD RYZEN 5 1600-A3013</CODE>
-    <CATEGORIES>
-      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
-      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE description="AMD Ryzen 5 1600">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A3013_edited.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Ryzen 5 1600</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>AM4</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3.2GHz GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Ryzen 5 1600</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>AM4</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>6</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.2GHz GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
-    </INFORMATION_PARAMETERS>
-    <FREE_SHIPPING>0</FREE_SHIPPING>
-    <FREE_BILLING>0</FREE_BILLING>
-    <FLAGS>
-      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
-      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
-      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <XML_FEED_NAME>AMD Ryzen 5 1600</XML_FEED_NAME>
-    <SEO_TITLE>AMD Ryzen 5 1600 AM4</SEO_TITLE>
-    <META_DESCRIPTION>AMD Ryzen 5 1600, AM4, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
-    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
-    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
-    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
-    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE AMD-AMD RYZEN 5 1600-A3013, 1 ks (A3013), z microsite Vystav všude</INTERNAL_NOTE>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Hlavní sklad</NAME>
-          <VALUE>1</VALUE>
-          <LOCATION>R3013</LOCATION>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
-    <VISIBLE>1</VISIBLE>
-    <LOGISTIC>
-      <WEIGHT>0.05</WEIGHT>
-    </LOGISTIC>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>0</VAT>
-    <PRICE>204</PRICE>
-    <PRODUCT_NUMBER>RYZEN 5 1600</PRODUCT_NUMBER>
-    <PART_NUMBER>RYZEN 5 1600</PART_NUMBER>
-    <FIRMY_CZ>1</FIRMY_CZ>
-    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
-    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
-    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
-    <DECIMAL_COUNT>0</DECIMAL_COUNT>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <PRICE_RATIO>1</PRICE_RATIO>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Intel Core i5-2500S</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>Intel Core i5-2500S — 4/4 jader, 2.70 GHz, socket LGA1155, TDP 65 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>Intel Core i5-2500S — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Core i5-2500S</li><li>Patice: LGA1155</li><li>Jádra / vlákna: 4 / 4</li><li>Frekvence: 2.70 GHz</li><li>TDP: 65 W</li><li>Cache: 6 MB Smart Cache</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
@@ -2995,6 +2922,79 @@
     <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>AMD Athlon 64 X2 5200+</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 64 X2 5200+ —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>AMD Athlon 64 X2 5200+ — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 64 X2 5200+</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <MANUFACTURER>AMD</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>CPU-AMDATHLON64X2</CODE>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="AMD Athlon 64 X2 5200+">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/AMDATHLON64X2.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 64 X2 5200+</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 64 X2 5200+</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>AMD Athlon 64 X2 5200+</XML_FEED_NAME>
+    <SEO_TITLE>AMD Athlon 64 X2 5200+ </SEO_TITLE>
+    <META_DESCRIPTION>AMD Athlon 64 X2 5200+, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE CPU-AMDATHLON64X2, 1 ks (A3028), z microsite Vystav všude</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION>R3028</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>225</PRICE>
+    <PRODUCT_NUMBER>AMDATHLON64X2</PRODUCT_NUMBER>
+    <PART_NUMBER>AMDATHLON64X2</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Intel Core i5-3210M</NAME>
     <SHORT_DESCRIPTION><![CDATA[<p>Intel Core i5-3210M — 2/4 jader, 2.50 GHz, socket FCBGA1023, TDP 35 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
     <DESCRIPTION><![CDATA[<h2>Intel Core i5-3210M — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: Intel Core i5-3210M</li><li>Patice: FCBGA1023</li><li>Jádra / vlákna: 2 / 4</li><li>Frekvence: 2.50 GHz</li><li>TDP: 35 W</li><li>Cache: 3 MB Smart Cache</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
@@ -3252,7 +3252,7 @@
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
     <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
-    <INTERNAL_NOTE>master CODE INTEL-SR048-A3023, 4 ks (A3023, A3024, A3025, A3030), z microsite Vystav všude</INTERNAL_NOTE>
+    <INTERNAL_NOTE>master CODE INTEL-SR048-A3023, 5 ks (A3023, A3024, A3025, A3030, A3089), z microsite Vystav všude</INTERNAL_NOTE>
     <ITEM_CONDITION>
       <GRADE>used</GRADE>
       <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
@@ -3261,7 +3261,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Hlavní sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>5</VALUE>
           <LOCATION>R3023</LOCATION>
         </WAREHOUSE>
       </WAREHOUSES>
@@ -3349,8 +3349,8 @@
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
     <PRICE>382</PRICE>
-    <PRODUCT_NUMBER>Core 2 Duo T9400</PRODUCT_NUMBER>
-    <PART_NUMBER>Core 2 Duo T9400</PART_NUMBER>
+    <PRODUCT_NUMBER>T9400</PRODUCT_NUMBER>
+    <PART_NUMBER>T9400</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
@@ -3507,8 +3507,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <NAME>AMD Athlon 64 X2 TK-55</NAME>
-    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 64 X2 TK-55 — 2/2 jader, 1.8 GHz, socket S1, TDP 31 W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[<h2>AMD Athlon 64 X2 TK-55 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 64 X2 TK-55</li><li>Patice: S1</li><li>Jádra / vlákna: 2 / 2</li><li>Frekvence: 1.8 GHz</li><li>TDP: 31 W</li><li>Cache: 512 KB</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <SHORT_DESCRIPTION><![CDATA[<p>AMD Athlon 64 X2 TK-55 —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>AMD Athlon 64 X2 TK-55 — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: AMD</li><li>Model: AMD Athlon 64 X2 TK-55</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
     <MANUFACTURER>AMD</MANUFACTURER>
     <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
     <WARRANTY>24 měsíců</WARRANTY>
@@ -3524,10 +3524,10 @@
       <IMAGE description="AMD Athlon 64 X2 TK-55">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/cpu-masters/A1419_edited.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Patice</NAME><VALUE>S1</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>1.8 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>S1</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>2</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>1.8 GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>AMD Athlon 64 X2 TK-55</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
     <FREE_BILLING>0</FREE_BILLING>
@@ -3538,8 +3538,8 @@
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <XML_FEED_NAME>AMD Athlon 64 X2 TK-55</XML_FEED_NAME>
-    <SEO_TITLE>AMD Athlon 64 X2 TK-55 S1</SEO_TITLE>
-    <META_DESCRIPTION>AMD Athlon 64 X2 TK-55, S1, použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <SEO_TITLE>AMD Athlon 64 X2 TK-55 </SEO_TITLE>
+    <META_DESCRIPTION>AMD Athlon 64 X2 TK-55, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
     <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
     <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
     <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
@@ -3568,8 +3568,8 @@
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
     <PRICE>153</PRICE>
-    <PRODUCT_NUMBER>Athlon 64 X2 TK-55</PRODUCT_NUMBER>
-    <PART_NUMBER>Athlon 64 X2 TK-55</PART_NUMBER>
+    <PRODUCT_NUMBER>TK55</PRODUCT_NUMBER>
+    <PART_NUMBER>TK55</PART_NUMBER>
     <FIRMY_CZ>1</FIRMY_CZ>
     <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
     <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
@@ -3627,5 +3627,78 @@
     <PRICE>153</PRICE>
     <PRICE_VAT>153</PRICE_VAT>
     <VAT>0</VAT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>__DRY_RUN_TEST__</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>__DRY_RUN_TEST__ —  jader,  GHz, socket , TDP  W. Použité, otestované. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<h2>__DRY_RUN_TEST__ — použitý procesor</h2><p>Použitý procesor vytažený z plně funkčního počítače, otestovaný, plně funkční. Dodáváme pouze procesor (bez chladiče a krabice). Záruka 24 měsíců s možností vrácení.</p><h3>Specifikace</h3><ul><li>Výrobce: Intel</li><li>Model: __DRY_RUN_TEST__</li><li>Frekvence:  GHz</li><li>TDP:  W</li></ul><p>Doprava Zásilkovna / PPL.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>__DRY_RUN_TEST__</CODE>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="__DRY_RUN_TEST__">https://raw.githubusercontent.com/ClaudeLEFI/importpc-photos/main/illust/intel-cpu-generic.webp</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Model</NAME><VALUE>__DRY_RUN_TEST__</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE> GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY><TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>__DRY_RUN_TEST__</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE> GHz</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>__DRY_RUN_TEST__</XML_FEED_NAME>
+    <SEO_TITLE>__DRY_RUN_TEST__ </SEO_TITLE>
+    <META_DESCRIPTION>__DRY_RUN_TEST__, , použitý procesor, záruka 24 měsíců, skladem.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>master CODE __DRY_RUN_TEST__, 1 ks (), z microsite Vystav všude</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované (kontrola pinů, boot test). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION></LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>999</PRICE>
+    <PRODUCT_NUMBER>__DRY_RUN_TEST__</PRODUCT_NUMBER>
+    <PART_NUMBER>__DRY_RUN_TEST__</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <PRICE_RATIO>1</PRICE_RATIO>
   </SHOPITEM>
 </SHOP>
