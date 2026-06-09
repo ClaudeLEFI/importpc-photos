@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Shoptet import XML — A3124 NVIDIA Quadro K4000
+  Update: všechny 4 curated fotky (hidden=0 z photo_state), kategorie 711 (Grafické karty)
+  Cena: 893 CZK (z channel_listings shoptet), záruka 24 měsíců (eshop pravidlo)
+  §90 ZDPH margin scheme — VAT=0, cena finální
+  Fotky: claudelefi.github.io/importpc-photos/photos/A3124/* (4 curated, bílé BG)
+  Regal: A064, pozice 3124
+-->
+<SHOP>
+  <SHOPITEM>
+    <CODE>NVIDIA-GPU-NVIDIAQUADROK4000-A3124</CODE>
+    <NAME>NVIDIA Quadro K4000 3GB GDDR5 profesionální grafická karta</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Profesionální grafická karta NVIDIA Quadro K4000 s 3 GB GDDR5 paměti, rozhraní PCIe 2.0 x16. Použitá, otestovaná, vytaženo z plně funkčního pracovního počítače. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<h2>NVIDIA Quadro K4000 — profesionální workstation GPU</h2>
+<p>Profesionální grafická karta NVIDIA Quadro K4000 pro workstationové aplikace. Výkon GPU Kepler GK107GL s <strong>3 GB GDDR5 ECC</strong> paměti, sběrnice 192-bit. Certifikovaná pro ISV profesionální aplikace (AutoCAD, SolidWorks, 3ds Max, Maya, Catia, ProEngineer).</p>
+
+<h3>Klíčové parametry</h3>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>GPU čip</strong></td><td>NVIDIA Kepler GK107GL</td></tr>
+  <tr><td><strong>Výrobce</strong></td><td>NVIDIA</td></tr>
+  <tr><td><strong>Model</strong></td><td>Quadro K4000</td></tr>
+  <tr><td><strong>Paměť</strong></td><td>3 GB GDDR5 ECC</td></tr>
+  <tr><td><strong>Sběrnice paměti</strong></td><td>192-bit</td></tr>
+  <tr><td><strong>Rozhraní</strong></td><td>PCIe 2.0 x16</td></tr>
+  <tr><td><strong>Výstup</strong></td><td>2× DisplayPort 1.2, 1× DVI-I</td></tr>
+  <tr><td><strong>Max. rozlišení</strong></td><td>4096 × 2160</td></tr>
+  <tr><td><strong>CUDA jádra</strong></td><td>768</td></tr>
+  <tr><td><strong>Napájení</strong></td><td>80 W (1× 6pin konektor)</td></tr>
+  <tr><td><strong>MPN</strong></td><td>NVIDIA QUADRO K4000</td></tr>
+</table>
+
+<h3>Stav zboží</h3>
+<p><strong>Použité, otestované.</strong> Vytaženo z plně funkčního pracovního počítače. U každého kusu provedeno:</p>
+<ul>
+  <li>Vizuální kontrola (žádná mechanická poškození, čisté kontakty)</li>
+  <li>Funkční test pod zátěží</li>
+  <li>Stabilita zobrazení — 0 artefaktů</li>
+</ul>
+<p>Záruka <strong>24 měsíců s právem na vrácení</strong>.</p>
+
+<h3>Pro koho je vhodná</h3>
+<ul>
+  <li>Workstation pro CAD/CAM aplikace (AutoCAD, SolidWorks, CATIA)</li>
+  <li>3D modelování a animace (3ds Max, Maya)</li>
+  <li>Renderování a vizualizace</li>
+  <li>Upgrade pracovní stanice HP Z420/Z620, Dell Precision T3610/T5610</li>
+</ul>
+
+<h3>Co dostanete</h3>
+<p>1× grafická karta NVIDIA Quadro K4000 3GB. Bez originální krabice. Doprava Zásilkovna / PPL.</p>
+
+<p><small>Použité zboží — prodáváme v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím). Daň není rozepsána na faktuře, cena je finální.</small></p>
+
+<p><small>Interní kód: NVIDIA-GPU-NVIDIAQUADROK4000-A3124; A3124</small></p>
+]]></DESCRIPTION>
+    <MANUFACTURER>NVIDIA</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY id="711">Komponenty pro notebooky a počítače &gt; Grafické karty</CATEGORY>
+      <DEFAULT_CATEGORY id="711" google-id="297">Komponenty pro notebooky a počítače &gt; Grafické karty</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="NVIDIA Quadro K4000 grafická karta — pohled zleva">https://claudelefi.github.io/importpc-photos/photos/A3124/product_01_edited_curated.jpg</IMAGE>
+      <IMAGE description="NVIDIA Quadro K4000 — PCIe konektor a výstupy">https://claudelefi.github.io/importpc-photos/photos/A3124/product_02_curated.jpg</IMAGE>
+      <IMAGE description="NVIDIA Quadro K4000 — GPU čip detail">https://claudelefi.github.io/importpc-photos/photos/A3124/product_03_curated.jpg</IMAGE>
+      <IMAGE description="NVIDIA Quadro K4000 — pohled zepředu">https://claudelefi.github.io/importpc-photos/photos/A3124/product_04_curated.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>NVIDIA</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Řada</NAME><VALUE>Quadro K</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Model</NAME><VALUE>Quadro K4000</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Paměť</NAME><VALUE>3 GB GDDR5</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Rozhraní</NAME><VALUE>PCIe 2.0 x16</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Výstup</NAME><VALUE>2× DisplayPort, 1× DVI-I</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>GPU - Stav</NAME><VALUE>Použité, otestované</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Výrobce</NAME><VALUE>NVIDIA</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Výrobce čipu</NAME><VALUE>NVIDIA</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Modelová řada</NAME><VALUE>Quadro K</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Model</NAME><VALUE>K4000</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Edice</NAME><VALUE>Quadro</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Velikost paměti</NAME><VALUE>3 GB</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Typ paměti</NAME><VALUE>GDDR5</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Sběrnice</NAME><VALUE>192-bit</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>GPU - Napájení</NAME><VALUE>1× 6pin</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <VISIBILITY>visible</VISIBILITY>
+    <INTERNAL_NOTE>ax=A3124, sku=NVIDIA-GPU-NVIDIAQUADROK4000-A3124, regal A064. Update 2026-06-09: přidány všechny 4 curated fotky s bílým pozadím. §90 ZDPH margin scheme.</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použité, otestované. Vytaženo z plně funkčního pracovního počítače. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION>A064</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>893</PRICE>
+    <PRODUCT_NUMBER>NVIDIA QUADRO K4000</PRODUCT_NUMBER>
+    <PART_NUMBER>NVIDIA QUADRO K4000</PART_NUMBER>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+  </SHOPITEM>
+</SHOP>

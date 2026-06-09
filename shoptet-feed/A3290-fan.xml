@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Shoptet import XML — A3290 Dell ventilátor 024J21
+  Update: všechny 2 curated fotky (hidden=0 z photo_state), kategorie 1207 (Ventilátory)
+  Cena: 303 CZK (z channel_listings shoptet), záruka 24 měsíců (eshop pravidlo)
+  §90 ZDPH margin scheme — VAT=0, cena finální
+  Fotky: claudelefi.github.io/importpc-photos/photos/A3290/* (2 curated, bílé BG)
+  Regal: A069, pozice 3290
+  Kategorie 1207 = Ventilátory (nová v Komponenty, pageId ověřeno z webu importpc.cz/ventilatory-2/)
+-->
+<SHOP>
+  <SHOPITEM>
+    <CODE>DELL-FAN-024J21-A3290</CODE>
+    <NAME>Ventilátor chladič CPU Dell Venue 11 Pro 7130 7139 DP/N 024J21 DFS150405000T 4-pin</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Originální ventilátor / chladič CPU pro Dell Venue 11 Pro 7130 a 7139. DP/N 024J21, model DFS150405000T, 4-pin konektor. Použitý, otestovaný. Záruka 24 měsíců s vrácením.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<h2>Ventilátor CPU Dell Venue 11 Pro 7130 / 7139 — originální náhradní díl</h2>
+<p>Originální výměnný ventilátor / chladič procesoru pro tablet Dell Venue 11 Pro modely <strong>7130</strong> a <strong>7139</strong>. Vytaženo z plně funkčního zařízení Dell.</p>
+
+<h3>Klíčové parametry</h3>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>DP/N (Dell Part Number)</strong></td><td>024J21</td></tr>
+  <tr><td><strong>Model ventilátoru</strong></td><td>DFS150405000T</td></tr>
+  <tr><td><strong>Konektor</strong></td><td>4-pin</td></tr>
+  <tr><td><strong>Kompatibilní zařízení</strong></td><td>Dell Venue 11 Pro 7130, Dell Venue 11 Pro 7139</td></tr>
+  <tr><td><strong>Výrobce</strong></td><td>Dell (originální díl)</td></tr>
+</table>
+
+<h3>Kompatibilita</h3>
+<ul>
+  <li><strong>Dell Venue 11 Pro 7130</strong> — všechny konfigurace (i3/i5/i7)</li>
+  <li><strong>Dell Venue 11 Pro 7139</strong> — všechny konfigurace</li>
+</ul>
+<p>Ověřte DP/N na spodní straně vašeho zařízení nebo v servisním manuálu před objednáním.</p>
+
+<h3>Stav zboží</h3>
+<p><strong>Použitý, otestovaný.</strong> Vytaženo z plně funkčního zařízení Dell. Funkčně ověřeno — ventilátor se točí, 4-pin konektor bez poškození.</p>
+<p>Záruka <strong>24 měsíců s právem na vrácení</strong>.</p>
+
+<h3>Co dostanete</h3>
+<p>1× ventilátor / chladič CPU Dell Venue 11 Pro, DP/N 024J21. Bez originální krabice. Doprava Zásilkovna / PPL.</p>
+
+<p><small>Použité zboží — prodáváme v režimu <strong>§ 90 ZDPH</strong> (zvláštní režim pro obchodníky s použitým zbožím). Daň není rozepsána na faktuře, cena je finální.</small></p>
+
+<p><small>Interní kód: DELL-FAN-024J21-A3290; A3290</small></p>
+]]></DESCRIPTION>
+    <MANUFACTURER>Dell</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY id="1207">Ventilátory</CATEGORY>
+      <DEFAULT_CATEGORY id="1207">Ventilátory</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Dell Venue 11 Pro ventilátor 024J21 DFS150405000T — celkový pohled">https://claudelefi.github.io/importpc-photos/photos/A3290/product_01_edited_curated.jpg</IMAGE>
+      <IMAGE description="Dell Venue 11 Pro ventilátor 024J21 — 4-pin konektor a detail">https://claudelefi.github.io/importpc-photos/photos/A3290/product_02_curated.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Dell</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Model</NAME><VALUE>DFS150405000T</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>DP/N</NAME><VALUE>024J21</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Konektor</NAME><VALUE>4-pin</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Kompatibilita</NAME><VALUE>Dell Venue 11 Pro 7130, 7139</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>použité, otestované</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <VISIBILITY>visible</VISIBILITY>
+    <INTERNAL_NOTE>ax=A3290, sku=DELL-FAN-024J21-A3290, regal A069. Update 2026-06-09: přidány obě curated fotky s bílým pozadím, přesun do kategorie 1207 Ventilátory. §90 ZDPH margin scheme.</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použitý, otestovaný. Vytaženo z plně funkčního zařízení Dell. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION>A069</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>303</PRICE>
+    <PRODUCT_NUMBER>024J21</PRODUCT_NUMBER>
+    <PART_NUMBER>024J21</PART_NUMBER>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+  </SHOPITEM>
+</SHOP>
