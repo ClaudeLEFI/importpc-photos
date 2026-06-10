@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Shoptet import XML — Intel Core i3-8100 (A3097)
+  1 ks skladem, §90 ZDPH margin scheme → VAT=0, PRICE = finální cena s DPH (649 Kč).
+  Kategorie id=913 (Procesory). Foto GitHub Pages.
+  Validní proti products-complete-v10.rng (vzor G5905-A1187.xml).
+-->
+<SHOP>
+  <SHOPITEM>
+    <NAME>Intel Core i3-8100 procesor LGA1151 4C/4T 3,60 GHz</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Použitý procesor Intel Core i3-8100. 4 jádra / 4 vlákna, 3,60 GHz, LGA1151 (Coffee Lake, 8. gen). Intel UHD Graphics 630, TDP 65 W, 6 MB cache. Otestovaný, záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<h2>Intel Core i3-8100 — čtyřjádrový procesor Coffee Lake (LGA1151)</h2>
+<p>Spolehlivý procesor <strong>Intel Core i3-8100</strong> 8. generace (Coffee Lake) s integrovanou grafikou. Čtyři fyzická jádra bez Hyper-Threadingu — solidní základ pro kancelářská i domácí PC. <strong>Použitý</strong>, otestovaný, vytažený z plně funkčního počítače.</p>
+
+<h3>Technické parametry (dle Intel ARK)</h3>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Výrobce</strong></td><td>Intel</td></tr>
+  <tr><td><strong>Model</strong></td><td>Intel Core i3-8100</td></tr>
+  <tr><td><strong>sSpec</strong></td><td>SR3N5</td></tr>
+  <tr><td><strong>MPN</strong></td><td>BX80684I38100</td></tr>
+  <tr><td><strong>Patice (socket)</strong></td><td>FCLGA1151 (LGA1151 v2)</td></tr>
+  <tr><td><strong>Jádra / vlákna</strong></td><td>4 / 4 (bez Hyper-Threadingu)</td></tr>
+  <tr><td><strong>Základní frekvence</strong></td><td>3,60 GHz (bez Turbo Boost)</td></tr>
+  <tr><td><strong>Cache</strong></td><td>6 MB Intel Smart Cache</td></tr>
+  <tr><td><strong>TDP</strong></td><td>65 W</td></tr>
+  <tr><td><strong>Litografie</strong></td><td>14 nm</td></tr>
+  <tr><td><strong>Integrovaná grafika</strong></td><td>Intel UHD Graphics 630</td></tr>
+  <tr><td><strong>Generace</strong></td><td>Coffee Lake (8. generace), uvedeno Q4/2017</td></tr>
+  <tr><td><strong>Vhodné čipsety</strong></td><td>H310, B360, H370, Z370, Z390 (300-série)</td></tr>
+  <tr><td><strong>Stav</strong></td><td>Použitý, plně funkční, otestovaný</td></tr>
+</table>
+
+<h3>Kompatibilita</h3>
+<p>Patice <strong>LGA1151 v2</strong> — nutná základní deska s čipsetem Intel 300-série (H310, B360, H370, Z370, Z390). <strong>Není kompatibilní</strong> s čipsety 100/200-série (H110, B150, Z170, Z270 — jiné napájení pinu). Před nákupem doporučujeme ověřit podporu v BIOS desky.</p>
+
+<h3>Stav, záruka a balení</h3>
+<ul>
+  <li>Použitý — profesionálně otestováno (kontrola pinů, boot test, CPU-Z)</li>
+  <li><strong>Záruka 24 měsíců</strong> s možností vrácení</li>
+  <li>Vytaženo z plně funkčního počítače</li>
+  <li>Dodáváme pouze procesor (bez chladiče a krabice)</li>
+</ul>
+
+<p>Doprava Zásilkovna / PPL.</p>
+
+<p><small>Interní kód: INTEL-CPU-I3-8100-A3097</small></p>
+]]></DESCRIPTION>
+    <MANUFACTURER>Intel</MANUFACTURER>
+    <SUPPLIER>LEFI IMPEX s.r.o.</SUPPLIER>
+    <WARRANTY>24 měsíců</WARRANTY>
+    <ADULT>0</ADULT>
+    <ITEM_TYPE>bazaar</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>INTEL-CPU-I3-8100-A3097</CODE>
+    <CATEGORIES>
+      <CATEGORY id="913">Komponenty pro notebooky a počítače &gt; Procesory</CATEGORY>
+      <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Intel Core i3-8100 SR3N5 — popisová strana">https://claudelefi.github.io/importpc-photos/listings/CPU-i3-8100.jpg</IMAGE>
+      <IMAGE description="Intel Core i3-8100 — pinová strana LGA1151">https://claudelefi.github.io/importpc-photos/listings/CPU-i3-8100-pins.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Model</NAME><VALUE>Core i3-8100</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Patice</NAME><VALUE>LGA1151 v2</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Jádra / vlákna</NAME><VALUE>4 / 4</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Frekvence</NAME><VALUE>3,60 GHz</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>6 MB</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>TDP</NAME><VALUE>65 W</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Grafika</NAME><VALUE>Intel UHD Graphics 630</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>Coffee Lake (8. gen)</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použitý, otestovaný</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION /></TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>CPU - Model</NAME><VALUE>Intel Core i3-8100</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Socket</NAME><VALUE>LGA1151</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Jádra</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Vlákna</NAME><VALUE>4</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3,60 GHz</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>65 W</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>Coffee Lake (8. gen)</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použitý, testované</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <FREE_SHIPPING>0</FREE_SHIPPING>
+    <FREE_BILLING>0</FREE_BILLING>
+    <FLAGS>
+      <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+      <FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <XML_FEED_NAME>Intel Core i3-8100 LGA1151</XML_FEED_NAME>
+    <SEO_TITLE>Intel Core i3-8100 LGA1151 procesor | importpc.cz</SEO_TITLE>
+    <META_DESCRIPTION>Intel Core i3-8100, 4C/4T 3,60 GHz, LGA1151, UHD 630, použitý procesor, záruka 24 měsíců. Skladem, rychlé odeslání.</META_DESCRIPTION>
+    <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+    <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+    <INTERNAL_NOTE>A3097, §90 ZDPH margin scheme. eBay 267686541064 ACTIVE, Aukro (recreate), Magento 12285. 2026-06-10 sjednocení kvality.</INTERNAL_NOTE>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>Použitý, otestovaný (kontrola pinů, boot test, CPU-Z). Vytaženo z plně funkčního PC. Záruka 24 měsíců s vrácením.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Hlavní sklad</NAME>
+          <VALUE>1</VALUE>
+          <LOCATION>A3097</LOCATION>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Skladem</AVAILABILITY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Momentálně nedostupné</AVAILABILITY_OUT_OF_STOCK>
+    <VISIBLE>1</VISIBLE>
+    <LOGISTIC>
+      <WEIGHT>0.05</WEIGHT>
+    </LOGISTIC>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>0</VAT>
+    <PRICE>649</PRICE>
+    <!-- §90 ZDPH margin scheme: VAT=0, PRICE = finální cena zákazníka (649 Kč). -->
+    <PRODUCT_NUMBER>i3-8100</PRODUCT_NUMBER>
+    <PART_NUMBER>BX80684I38100</PART_NUMBER>
+    <FIRMY_CZ>1</FIRMY_CZ>
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+  </SHOPITEM>
+</SHOP>
