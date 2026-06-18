@@ -4,7 +4,7 @@
      POVINNÉ při nahrání: v Shoptet admin → Import produktů zvolit
        "Přidat nové a aktualizovat existující produkty" (= importType=2).
        Tím CODE najde existující produkt → UPDATE, jinak CREATE. Nikdy -2 duplikát.
-     Generováno: 2026-06-18 23:54 -->
+     Generováno: 2026-06-18 23:57 -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Xeon 5160 LGA771 3.00 GHz</NAME>
@@ -5686,7 +5686,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Cache</td><td style="padding:5px 0;font-weight:600;font-size:13px">6 MB SmartCache</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Generace / platforma</td><td style="padding:5px 0;font-weight:600;font-size:13px">2. generace</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Podporovaná RAM</td><td style="padding:5px 0;font-weight:600;font-size:13px">DDR3 1066/1333</td></tr>
-<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 3000</td></tr>
+<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 2000</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Stav</td><td style="padding:5px 0;font-weight:600;font-size:13px">Použitý, otestovaný</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Záruka</td><td style="padding:5px 0;font-weight:600;font-size:13px">24 měsíců</td></tr>
 </table>
@@ -5740,7 +5740,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>6 MB Smart Cache</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>2. generace</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Podporovaná paměť</NAME><VALUE>DDR3 1066/1333</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použité, otestované</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
@@ -5752,7 +5752,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.70 GHz</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>2. generace</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>65 W</VALUE></INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
@@ -5820,7 +5820,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Cache</td><td style="padding:5px 0;font-weight:600;font-size:13px">3 MB SmartCache</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Generace / platforma</td><td style="padding:5px 0;font-weight:600;font-size:13px">2. generace</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Podporovaná RAM</td><td style="padding:5px 0;font-weight:600;font-size:13px">DDR3 1066/1333</td></tr>
-<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 3000</td></tr>
+<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 2000</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Stav</td><td style="padding:5px 0;font-weight:600;font-size:13px">Použitý, otestovaný</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Záruka</td><td style="padding:5px 0;font-weight:600;font-size:13px">24 měsíců</td></tr>
 </table>
@@ -5874,7 +5874,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>3 MB Smart Cache</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>2. generace</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Podporovaná paměť</NAME><VALUE>DDR3 1066/1333</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použité, otestované</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
@@ -5886,7 +5886,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.50 GHz</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>2. generace</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
@@ -7159,7 +7159,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Cache</td><td style="padding:5px 0;font-weight:600;font-size:13px">30 MB SmartCache</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Generace / platforma</td><td style="padding:5px 0;font-weight:600;font-size:13px">13. generace</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Podporovaná RAM</td><td style="padding:5px 0;font-weight:600;font-size:13px">Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s</td></tr>
-<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel UHD Graphics 630</td></tr>
+<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel UHD Graphics 770</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Stav</td><td style="padding:5px 0;font-weight:600;font-size:13px">Použitý, otestovaný</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Záruka</td><td style="padding:5px 0;font-weight:600;font-size:13px">24 měsíců</td></tr>
 </table>
@@ -7212,7 +7212,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>30 MB Smart Cache</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>13. generace</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Podporovaná paměť</NAME><VALUE>Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 630</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 770</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použité, otestované</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
@@ -7223,7 +7223,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <INFORMATION_PARAMETER><NAME>CPU - Počet vláken</NAME><VALUE>24</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.40 GHz</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>13. generace</VALUE></INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 630</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 770</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
@@ -7290,7 +7290,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Cache</td><td style="padding:5px 0;font-weight:600;font-size:13px">30 MB SmartCache</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Generace / platforma</td><td style="padding:5px 0;font-weight:600;font-size:13px">13. generace</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Podporovaná RAM</td><td style="padding:5px 0;font-weight:600;font-size:13px">Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s</td></tr>
-<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel UHD Graphics 630</td></tr>
+<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Není</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Stav</td><td style="padding:5px 0;font-weight:600;font-size:13px">Použitý, otestovaný</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Záruka</td><td style="padding:5px 0;font-weight:600;font-size:13px">24 měsíců</td></tr>
 </table>
@@ -7343,7 +7343,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>30 MB Smart Cache</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>13. generace</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Podporovaná paměť</NAME><VALUE>Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 630</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Není</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použité, otestované</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
@@ -7354,7 +7354,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <INFORMATION_PARAMETER><NAME>CPU - Počet vláken</NAME><VALUE>24</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>3.40 GHz</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>13. generace</VALUE></INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel UHD Graphics 630</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Není</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
@@ -7422,7 +7422,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Cache</td><td style="padding:5px 0;font-weight:600;font-size:13px">4 MB SmartCache</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Generace / platforma</td><td style="padding:5px 0;font-weight:600;font-size:13px">2. generace</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Podporovaná RAM</td><td style="padding:5px 0;font-weight:600;font-size:13px">DDR3 1066/1333</td></tr>
-<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 3000</td></tr>
+<tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Integrovaná grafika</td><td style="padding:5px 0;font-weight:600;font-size:13px">Intel HD Graphics 2000</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Stav</td><td style="padding:5px 0;font-weight:600;font-size:13px">Použitý, otestovaný</td></tr>
 <tr><td style="padding:5px 16px 5px 0;color:#666;white-space:nowrap;font-size:13px">Záruka</td><td style="padding:5px 0;font-weight:600;font-size:13px">24 měsíců</td></tr>
 </table>
@@ -7476,7 +7476,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <TEXT_PROPERTY><NAME>Cache</NAME><VALUE>4 MB Smart Cache</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Generace</NAME><VALUE>2. generace</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Podporovaná paměť</NAME><VALUE>DDR3 1066/1333</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+      <TEXT_PROPERTY><NAME>Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Stav</NAME><VALUE>Použité, otestované</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
       <TEXT_PROPERTY><NAME>Záruka</NAME><VALUE>24 měsíců</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
     </TEXT_PROPERTIES>
@@ -7488,7 +7488,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <INFORMATION_PARAMETER><NAME>CPU - Frekvence</NAME><VALUE>2.70 GHz</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - Generace</NAME><VALUE>2. generace</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>CPU - TDP</NAME><VALUE>35 W</VALUE></INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 3000</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>CPU - Integrovaná grafika</NAME><VALUE>Intel HD Graphics 2000</VALUE></INFORMATION_PARAMETER>
       <INFORMATION_PARAMETER><NAME>Stav</NAME><VALUE>Použité, testované</VALUE></INFORMATION_PARAMETER>
     </INFORMATION_PARAMETERS>
     <FREE_SHIPPING>0</FREE_SHIPPING>
