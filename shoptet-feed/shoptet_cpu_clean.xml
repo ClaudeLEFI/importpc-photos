@@ -4,7 +4,7 @@
      POVINNÉ při nahrání: v Shoptet admin → Import produktů zvolit
        "Přidat nové a aktualizovat existující produkty" (= importType=2).
        Tím CODE najde existující produkt → UPDATE, jinak CREATE. Nikdy -2 duplikát.
-     Generováno: 2026-06-18 23:57 -->
+     Generováno: 2026-06-19 09:14 -->
 <SHOP>
   <SHOPITEM>
     <NAME>Intel Xeon 5160 LGA771 3.00 GHz</NAME>
@@ -61,7 +61,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon 5160 LGA771 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/5160_v4.jpg?v=340e23d4</IMAGE>
+      <IMAGE description="Intel Xeon 5160 LGA771 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/5160_clean.jpg?v=d9ee45d5</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -190,7 +190,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="AMD Athlon 300GE AM4 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/Athlon_300GE_v4.jpg?v=e5e11fa7</IMAGE>
+      <IMAGE description="AMD Athlon 300GE AM4 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/Athlon_300GE_clean.jpg?v=8c6422ef</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -318,7 +318,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="AMD Athlon 64 X2 5200+ AM2 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/Athlon_64_X2_5200_v4.jpg?v=5f2f0c34</IMAGE>
+      <IMAGE description="AMD Athlon 64 X2 5200+ AM2 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/Athlon_64_X2_5200_clean.jpg?v=aeb8e9db</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -447,7 +447,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron B840 FCPGA988 1.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_B840_v4.jpg?v=c7825b26</IMAGE>
+      <IMAGE description="Intel Celeron B840 FCPGA988 1.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_B840_clean.jpg?v=71c4afe8</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -578,7 +578,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon E5-1607 LGA2011 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1607_v4.jpg?v=8dd175f7</IMAGE>
+      <IMAGE description="Intel Xeon E5-1607 LGA2011 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1607_clean.jpg?v=d88d3f75</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -710,7 +710,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon E5-1620 v2 LGA2011 3.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1620_v2_v4.jpg?v=c17677c2</IMAGE>
+      <IMAGE description="Intel Xeon E5-1620 v2 LGA2011 3.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1620_v2_clean.jpg?v=50de6dcc</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -844,7 +844,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon E5-1620 v3 LGA2011-3 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1620_v3_v4.jpg?v=2f7be7bd</IMAGE>
+      <IMAGE description="Intel Xeon E5-1620 v3 LGA2011-3 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1620_v3_clean.jpg?v=ff4b5f26</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -978,7 +978,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon E5-1630 v4 LGA2011-3 3.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1630_v4_v4.jpg?v=58c93999</IMAGE>
+      <IMAGE description="Intel Xeon E5-1630 v4 LGA2011-3 3.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-1630_v4_clean.jpg?v=5ae5ab01</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1110,7 +1110,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon E5-2660 v2 LGA2011 2.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-2660_v2_v4.jpg?v=557bc6b1</IMAGE>
+      <IMAGE description="Intel Xeon E5-2660 v2 LGA2011 2.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/E5-2660_v2_clean.jpg?v=a4cc5802</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1241,7 +1241,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G1820 LGA1150 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1820_v4.jpg?v=3b1fbc47</IMAGE>
+      <IMAGE description="Intel Celeron G1820 LGA1150 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1820_clean.jpg?v=702f34d2</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1373,7 +1373,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G1830 LGA1150 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1830_v4.jpg?v=2902dc03</IMAGE>
+      <IMAGE description="Intel Celeron G1830 LGA1150 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1830_clean.jpg?v=ecabcac3</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1505,7 +1505,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G1840 LGA1150 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1840_v4.jpg?v=b2c32bc3</IMAGE>
+      <IMAGE description="Intel Celeron G1840 LGA1150 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1840_clean.jpg?v=85e318cb</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1637,7 +1637,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G1840T LGA1150 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1840T_v4.jpg?v=9e7eca61</IMAGE>
+      <IMAGE description="Intel Celeron G1840T LGA1150 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G1840T_clean.jpg?v=6b170e7b</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1769,7 +1769,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G2020 LGA1155 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G2020_v4.jpg?v=a142be65</IMAGE>
+      <IMAGE description="Intel Pentium G2020 LGA1155 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G2020_clean.jpg?v=ee533a70</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -1901,7 +1901,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G2030 LGA1155 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G2030_v4.jpg?v=ebb9664e</IMAGE>
+      <IMAGE description="Intel Pentium G2030 LGA1155 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G2030_clean.jpg?v=4b5467fe</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2033,7 +2033,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G3220 LGA1150 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3220_v4.jpg?v=741a823a</IMAGE>
+      <IMAGE description="Intel Pentium G3220 LGA1150 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3220_clean.jpg?v=7c70edbe</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2165,7 +2165,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G3250 LGA1150 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3250_v4.jpg?v=3de2374a</IMAGE>
+      <IMAGE description="Intel Pentium G3250 LGA1150 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3250_clean.jpg?v=4bd4692d</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2297,7 +2297,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G3900 LGA1151 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3900_v4.jpg?v=affe9821</IMAGE>
+      <IMAGE description="Intel Celeron G3900 LGA1151 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3900_clean.jpg?v=bbce53a4</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2429,7 +2429,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G3930 LGA1151 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3930_v4.jpg?v=a1ebf99f</IMAGE>
+      <IMAGE description="Intel Celeron G3930 LGA1151 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3930_clean.jpg?v=e39086ce</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2561,7 +2561,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G3950 LGA1151 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3950_v4.jpg?v=b0c92bd9</IMAGE>
+      <IMAGE description="Intel Celeron G3950 LGA1151 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G3950_clean.jpg?v=b8b5ac9e</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2693,7 +2693,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G4400 LGA1151 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4400_v4.jpg?v=ad483420</IMAGE>
+      <IMAGE description="Intel Pentium G4400 LGA1151 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4400_clean.jpg?v=006a5d30</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2825,7 +2825,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G4560 LGA1151 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4560_v4.jpg?v=c657a43e</IMAGE>
+      <IMAGE description="Intel Pentium G4560 LGA1151 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4560_clean.jpg?v=b81b1c3b</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -2957,7 +2957,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G4600 LGA1151 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4600_v4.jpg?v=d7f319ae</IMAGE>
+      <IMAGE description="Intel Pentium G4600 LGA1151 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4600_clean.jpg?v=f51dab4b</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3089,7 +3089,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G4900 LGA1151 3.10 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4900_v4.jpg?v=ec066920</IMAGE>
+      <IMAGE description="Intel Celeron G4900 LGA1151 3.10 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4900_clean.jpg?v=13bfe5e4</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3221,7 +3221,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G4930 LGA1151 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4930_v4.jpg?v=45bc2c3e</IMAGE>
+      <IMAGE description="Intel Celeron G4930 LGA1151 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4930_clean.jpg?v=7d55595c</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3353,7 +3353,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G4930T LGA1151 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4930T_v4.jpg?v=dfdb0dc7</IMAGE>
+      <IMAGE description="Intel Celeron G4930T LGA1151 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/G4930T_clean.jpg?v=e5141251</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3485,7 +3485,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G5420 LGA1151 3.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5420_v4.jpg?v=3c021b2d</IMAGE>
+      <IMAGE description="Intel Pentium G5420 LGA1151 3.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5420_clean.jpg?v=4e1a0583</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3617,7 +3617,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G5905 LGA1200 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5905_v4.jpg?v=362565ba</IMAGE>
+      <IMAGE description="Intel Celeron G5905 LGA1200 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5905_clean.jpg?v=07410143</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3749,7 +3749,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Celeron G5925 LGA1200 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5925_v4.jpg?v=1c5aa273</IMAGE>
+      <IMAGE description="Intel Celeron G5925 LGA1200 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/G5925_clean.jpg?v=947b002c</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -3881,7 +3881,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G630 LGA1155 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/G630_v4.jpg?v=a4d28e3c</IMAGE>
+      <IMAGE description="Intel Pentium G630 LGA1155 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/G630_clean.jpg?v=03e96ace</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4013,7 +4013,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G640 LGA1155 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G640_v4.jpg?v=1a927710</IMAGE>
+      <IMAGE description="Intel Pentium G640 LGA1155 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/G640_clean.jpg?v=6dfc136d</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4145,7 +4145,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Pentium G645 LGA1155 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G645_v4.jpg?v=37f40c7c</IMAGE>
+      <IMAGE description="Intel Pentium G645 LGA1155 2.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/G645_clean.jpg?v=8062e0b5</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4276,7 +4276,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core 2 Duo P8400 PGA478 2.26 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_P8400_v4.jpg?v=47f9b8c1</IMAGE>
+      <IMAGE description="Intel Core 2 Duo P8400 PGA478 2.26 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_P8400_clean.jpg?v=de2f02bf</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4406,7 +4406,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core 2 Duo P8600 PGA478 2.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_P8600_v4.jpg?v=c3560298</IMAGE>
+      <IMAGE description="Intel Core 2 Duo P8600 PGA478 2.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_P8600_clean.jpg?v=92ab8f90</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4537,7 +4537,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="AMD Ryzen 9 3900X AM4 3.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/Ryzen_9_3900X_v4.jpg?v=3c9a5f49</IMAGE>
+      <IMAGE description="AMD Ryzen 9 3900X AM4 3.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/Ryzen_9_3900X_clean.jpg?v=ef81ce85</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>AMD</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4667,7 +4667,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core 2 Duo T9400 PGA478 2.53 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_T9400_v4.jpg?v=75c51017</IMAGE>
+      <IMAGE description="Intel Core 2 Duo T9400 PGA478 2.53 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_T9400_clean.jpg?v=df4d9fa6</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4799,7 +4799,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Xeon X5675 LGA1366 3.06 GHz">https://claudelefi.github.io/importpc-photos/cpu/X5675_v4.jpg?v=f2fc90b4</IMAGE>
+      <IMAGE description="Intel Xeon X5675 LGA1366 3.06 GHz">https://claudelefi.github.io/importpc-photos/cpu/X5675_clean.jpg?v=dc52cc77</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -4932,7 +4932,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-2100 LGA1155 3.10 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-2100_v4.jpg?v=7ecbd1da</IMAGE>
+      <IMAGE description="Intel Core i3-2100 LGA1155 3.10 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-2100_clean.jpg?v=5f4d99e9</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5064,7 +5064,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-2350M PPGA988 2.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i3-2350M.jpg?v=cb0ab517</IMAGE>
+      <IMAGE description="Intel Core i3-2350M PPGA988 2.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i3-2350M_clean.jpg?v=cb0ab517</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5196,7 +5196,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-3220 LGA1155 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-3220_v4.jpg?v=09baaf9e</IMAGE>
+      <IMAGE description="Intel Core i3-3220 LGA1155 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-3220_clean.jpg?v=c5757201</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5328,7 +5328,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-3240 LGA1155 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-3240_v4.jpg?v=e1c93f44</IMAGE>
+      <IMAGE description="Intel Core i3-3240 LGA1155 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-3240_clean.jpg?v=875cfc60</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5460,7 +5460,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-7100 LGA1151 3.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-7100_v4.jpg?v=d5bda371</IMAGE>
+      <IMAGE description="Intel Core i3-7100 LGA1151 3.90 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-7100_clean.jpg?v=165c4615</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5592,7 +5592,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i3-8100 LGA1151 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-8100_v4.jpg?v=52ac6da4</IMAGE>
+      <IMAGE description="Intel Core i3-8100 LGA1151 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/i3-8100_clean.jpg?v=6d9356a8</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5725,7 +5725,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-2500S LGA1155 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-2500S_v4.jpg?v=3d67fcd9</IMAGE>
+      <IMAGE description="Intel Core i5-2500S LGA1155 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-2500S_clean.jpg?v=29aa3ffc</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5859,7 +5859,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-2520M PPGA988 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-2520M.jpg?v=e1c7af2d</IMAGE>
+      <IMAGE description="Intel Core i5-2520M PPGA988 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-2520M_clean.jpg?v=e1c7af2d</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -5926,7 +5926,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
     </LOGISTIC>
     <CURRENCY>CZK</CURRENCY>
     <VAT>0</VAT>
-    <PRICE_VAT>2490</PRICE_VAT>
+    <PRICE_VAT>550</PRICE_VAT>
     <EAN>8308476169507</EAN>
     <PRODUCT_NUMBER>i5-2520M</PRODUCT_NUMBER>
     <PART_NUMBER>i5-2520M</PART_NUMBER>
@@ -5993,7 +5993,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-3320M FCPGA988 2.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3320M_v4.jpg?v=6652beed</IMAGE>
+      <IMAGE description="Intel Core i5-3320M FCPGA988 2.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3320M_clean.jpg?v=da599ca5</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6127,7 +6127,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-3340M FCPGA988 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3340M.jpg?v=a85cfea6</IMAGE>
+      <IMAGE description="Intel Core i5-3340M FCPGA988 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3340M_clean.jpg?v=a85cfea6</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6261,7 +6261,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-3360M FCPGA988 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3360M.jpg?v=d4090653</IMAGE>
+      <IMAGE description="Intel Core i5-3360M FCPGA988 2.80 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-3360M_clean.jpg?v=d4090653</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6395,7 +6395,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-3570 LGA1155 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-3570_v4.jpg?v=73af89c6</IMAGE>
+      <IMAGE description="Intel Core i5-3570 LGA1155 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-3570_clean.jpg?v=108c800a</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6529,7 +6529,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-4200M FCPGA946 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-4200M_v4.jpg?v=236d4494</IMAGE>
+      <IMAGE description="Intel Core i5-4200M FCPGA946 2.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-4200M_clean.jpg?v=5d4709c0</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6663,7 +6663,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-4210M FCPGA946 2.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-4210M_v4.jpg?v=bb8d93e6</IMAGE>
+      <IMAGE description="Intel Core i5-4210M FCPGA946 2.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i5-4210M_clean.jpg?v=19793c8f</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6797,7 +6797,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-4590 LGA1150 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-4590_v4.jpg?v=fbba13c7</IMAGE>
+      <IMAGE description="Intel Core i5-4590 LGA1150 3.30 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-4590_clean.jpg?v=ca4d890b</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -6931,7 +6931,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-6400T LGA1151 2.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-6400T_v4.jpg?v=6af7079d</IMAGE>
+      <IMAGE description="Intel Core i5-6400T LGA1151 2.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-6400T_clean.jpg?v=e82172cb</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7065,7 +7065,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i5-6500 LGA1151 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-6500_v4.jpg?v=4276c50d</IMAGE>
+      <IMAGE description="Intel Core i5-6500 LGA1151 3.20 GHz">https://claudelefi.github.io/importpc-photos/cpu/i5-6500_clean.jpg?v=a978ef45</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7198,7 +7198,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-13700K LGA1700 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-13700K_v4.jpg?v=dce8f27e</IMAGE>
+      <IMAGE description="Intel Core i7-13700K LGA1700 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-13700K_clean.jpg?v=16a097cc</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7329,7 +7329,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-13700KF LGA1700 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-13700KF_v4.jpg?v=c4c17467</IMAGE>
+      <IMAGE description="Intel Core i7-13700KF LGA1700 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-13700KF_clean.jpg?v=65942722</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7461,7 +7461,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-2620M rPGA988B 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i7-2620M_v4.jpg?v=8ee953c1</IMAGE>
+      <IMAGE description="Intel Core i7-2620M rPGA988B 2.70 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i7-2620M_clean.jpg?v=e039537a</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7594,7 +7594,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-4610M 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i7-4610M.jpg?v=044e9d45</IMAGE>
+      <IMAGE description="Intel Core i7-4610M 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/mobile_i7-4610M_clean.jpg?v=044e9d45</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7726,7 +7726,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-4770 LGA1150 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4770_v4.jpg?v=ab1db0ec</IMAGE>
+      <IMAGE description="Intel Core i7-4770 LGA1150 3.40 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4770_clean.jpg?v=a2c9d9aa</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7860,7 +7860,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-4770K LGA1150 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4770K_v4.jpg?v=bfba34eb</IMAGE>
+      <IMAGE description="Intel Core i7-4770K LGA1150 3.50 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4770K_clean.jpg?v=a676302e</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -7994,7 +7994,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i7-4790 LGA1150 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4790_v4.jpg?v=ab081d5e</IMAGE>
+      <IMAGE description="Intel Core i7-4790 LGA1150 3.60 GHz">https://claudelefi.github.io/importpc-photos/cpu/i7-4790_clean.jpg?v=a810d643</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -8128,7 +8128,7 @@ Záruka <strong>24 měsíců</strong> s možností vrácení zboží.
       <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE description="Intel Core i9-13900K LGA1700 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/i9-13900K_v4.jpg?v=ad3967ad</IMAGE>
+      <IMAGE description="Intel Core i9-13900K LGA1700 3.00 GHz">https://claudelefi.github.io/importpc-photos/cpu/i9-13900K_clean.jpg?v=268698e6</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Intel</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
